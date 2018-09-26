@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:18.0.0] D:\ILLUMINATE4\ILLUMINATE4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:11:5-80:19
+MERGED from [com.android.support:appcompat-v7:18.0.0] D:\ILLUMINATE4\ILLUMINATE4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:13:9-39
+	android:theme
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.illuminate.splash
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:17:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.illuminate.MainActivity
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.DEFAULT
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:31:27-73
+activity#com.example.illuminate.Reference
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:34:9-38:20
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:36:13-38
+activity#com.example.illuminate.Govt
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:40:19-39
+activity#com.example.illuminate.Management
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:43:19-45
+activity#com.example.illuminate.Masters
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:46:19-42
+activity#com.example.illuminate.Resource
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:49:19-43
+activity#com.example.illuminate.Taketest
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:54:13-60
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:53:13-37
+activity#com.example.illuminate.Analysis
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:58:13-60
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:57:13-37
+activity#com.example.illuminate.Que_Generate
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:62:13-65
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:61:13-41
+activity#com.example.illuminate.View_Question
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:66:13-66
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:65:13-42
+activity#com.example.illuminate.Result
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:70:13-58
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:69:13-35
+activity#com.example.illuminate.Help
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:73:13-33
+activity#com.example.illuminate.Disclaimer
+ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:78:13-62
+	android:name
+		ADDED from D:\ILLUMINATE4\ILLUMINATE4\app\src\main\AndroidManifest.xml:77:13-39

@@ -1,0 +1,3046 @@
+Q.No,Question,OPT A,OPT B,OPT C,OPT D,CA,Domain,Class
+1,"One year ago Jaya was four times as old as her daughter Nikitha.  Six years hence, Mrs.Jaya's 
+age will exceed her daughter's age by 9 years. The ratio of the present ages of Jaya and her daughter is :",9:2,11:3,12:5,13:4,13:4,Aptitude,Easy
+2,"Five years ago, the total
+ of the ages of a father and his son was 40 years. The ratio of their present ages is 4 : 1. What is the present age of the father ?",30,25,20,None,None,Aptitude,Easy
+3,"A father is twice as old as his son.
+ 20 years ago the age of the father was 12 times the age of the son. The present age of the father is :",44,32,22,45,44,Aptitude,Easy
+4,Ajay got married 9 years ago . Today his age is 1 3 time of his age atthe time of his marriage . Find his present age.,30,28,36,29,36,Aptitude,Easy
+5,"The sum ages of kartik and his father is 78 years . 6 years hence ,father’s age will be twice of kartik’s age . Find present age of father. ",60,58,46,54,60,Aptitude,Easy
+6,"Two pipes P and Q can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are
+ opened. The cistern will be filled in just half an hour, if the Q is turned off after:",9,8,6,5,9,Aptitude,Easy
+7,"Pipes P and Q can fill a tank in 5 and 6 hours respectively. Pipe R can empty it in 12 hours. If all the three pipes are opened together, then the
+tank will be filled in:
+",4   5/13,3  5/13,1  9/17,3   9/17,1  9/17  ,Aptitude,Easy
+8,"A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. 
+The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",11,15,4,18,4,Aptitude,Easy
+9,"Three pipes P, Q and R can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. P, Q and R discharge chemical solutions M,L and N respectively. What is the proportion of the solution N in the liquid in the tank after 3 minutes?",2/13,3/5,6/11,7/15,6/11,Aptitude,Easy
+10,"A person earns 15% on investment but loses 10% on another investment. If the ratio of the two investments be 3:5, what is the gain or loss on the two investments taken together in terms of percentage?
+
+",0.65%,0.55%,0.63%,0.35%,0.55%,Aptitude,Easy
+11,"A person, by selling an article at three-fourths of the list price incurs a loss of 20%. Find the profit percentage if he sells at the list price?",7.65%,6.66%,5.45%,6.87%,6.66%,Aptitude,Easy
+12,"An uneducated retailer marks all his goods at 50% above the cost price and thinking that he will still make 25% profit, offers a discount of 25% on the marked price. What is his actual profit on the sales?",12%,14%,10.45%,12.5%,12.5%,Aptitude,Easy
+13,"30% loss on cost price in what percent loss on selling price?
+
+",42.85%,40%,50.45%,52.5%,42.85%,Aptitude,Easy
+14,"Let M be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in M is:",4,2,7,1,4,Aptitude,Easy
+15,"The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:",78,56,109,111,111,Aptitude,Easy
+16,Find the remainder when 231 is divided by 5.,3,1,4,2,3,Aptitude,Easy
+17,"The LCM of two 
+number is 4800 and their HCF is 160. If one number is 480, then the second number is",1300,1400,1600,1800,1600,Aptitude,Easy
+18,"If each of the three non zero numbers L , M , and N is divisible by 3, then LMN must be divisible by which one of the following the numbers?
+",81,27,36,121,36,Aptitude,Easy
+19,"P and Q are playing mathematical puzzles. P asks Q ""which whole numbers, greater than one, can divide all the nine three digit numbers 111,222,333,444,555,666, 777,888 and 999?"" Q immediately gave the desired answer. It was
+","3,9,37","3,37,119","8,37,111","3,37,111","3,37,111",Aptitude,Easy
+20,"A Student wrote all the numbers from 100 to 200. Then he started counting the number of one's that has been used while writing all these numbers. What is the number that he got?
+",129,118,123,120,120,Aptitude,Easy
+21,". There are 5 freshmen, 8 sophomores, and 7 juniors in a chess club. A group of 6 students will be chosen to compete in a competition.
+
+How many combinations of students are possible if the group is to consist of exactly 3 freshmen?
+
+",3500,5200,4550,8000,5200,Aptitude,Easy
+22,"There are 5 freshmen, 8 sophomores, and 7 juniors in a chess club. A group of 6 students will be chosen to compete in a competition.
+How many combinations of students are possible if the group is to consist of an equal number of freshmen, sophomores, and juniors?
+
+",3550,5880,4550,6000,5880,Aptitude,Easy
+23,"How many ways can 4 prizes be given away to 3 boys, if each boy is eligible for all the prizes?
+",24,13,225,36,24,Aptitude,Easy
+24,"Ten different letters of alphabet are given, words with 5 letters are formed from these given letters. Then, the number of words which have at least one letter repeated is:
+",89750,69760,99560,75000,69760,Aptitude,Easy
+25,"How many words can be formed by re-arranging the letters of the word ASCENT such that A and T occupy the first and last position respectively?
+",7!,5!,2!,4!,4!,Aptitude,Easy
+26,"
+. In what ratio must coffee at Rs 9.30 per Kg be mixed with coffee at Rs 10.80 per Kg so that the mixture be worth Rs 10 per Kg?
+",6:5,6:1,8:7,3:7,6:1,Aptitude,Easy
+27,"In what ratio must coffee at Rs.3.20 per kg be mixed with coffee at Rs.2.90 per kg so that the mixture be worth Rs.3.08 per kg?
+",3:4,4:3,2:3,3:2,3:2,Aptitude,Easy
+28,"In what ratio must sugar at Rs. 62 per Kg be mixed with sugar at Rs. 72 per Kg so that the mixture must be worth Rs. 64.50 per Kg?
+",1:3,2:3,4:3,3:1,3:1,Aptitude,Easy
+29,"In what proportion must wheat at Rs. 3.10 per kg be mixed
+
+with wheat at Rs. 3.60 per kg so that the mixture be worth Rs. 3.25 per kg?
+
+",7:3,6:3,5:3,7:1,7:3,Aptitude,Easy
+30,"Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 meters, in what time (in seconds) will they cross each other travelling in opposite direction?
+",10,15,12,16,12,Aptitude,Easy
+31,"What is the length of the fast train, If two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. Fast train completely passes a man sitting in the slower train in 5 seconds.
+",26,27   7/9,28  7/9,30,27  7/9,Aptitude,Easy
+32,"Find the speed of the train, If a train 125 m long passes a boy, running at 5 km/hr in the same direction in which the train is going, in 10 seconds.Find the speed of the train, If a train 125 m long passes a boy, running at 5 km/hr in the same direction in which the train is going, in 10 seconds Answer in kph.
+",50,53,44,49,50,Aptitude,Easy
+33,"Find the length of the faster train, If Two train travel in opposite directions at 36 km/hr and 45 km/hr and a Boy sitting in slower train passes the faster train in 8 seconds.
+",110,150,180,160,180,Aptitude,Easy
+34,"Find the length of each train, If Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds.
+",40,50,60,65,50,Aptitude,Easy
+35,The average of first five multiples of 3 is :,9,10,8,11,9,Aptitude,Easy
+36,"The average of 50 numbers is 30. If two numbers, 35 and 40 are discarded, then the average of the remaining numbers is nearly:
+",29.68,29.27,28.32,28.78,29.68,Aptitude,Easy
+37,"The average score of a cricketer for ten matches is 38.9 runs. If the average for the first six matches is 42, then find the average for the last four matches.
+",35,30.25,33.5,34.25,34.25,Aptitude,Easy
+38,"A Batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3. Find his average after 17th inning.
+",39,40,54,53,39,Aptitude,Easy
+39,"Rahul obtained 76, 65, 82, 67 and 85 marks (out of 100) in English, mathematics,physics, chemistry and biology. What are his average marks?
+",59,75,65,None,75,Aptitude,Easy
+40,"The average temperature(degree) on Wednesday, Thursday and Friday was 25. Theaverage temperature on Thursday, Friday and Saturday was 24. If thetemperature on Saturday was 27, what was the temperature onWednesday?Answer in degree.
+",21,24,30,27,30,Aptitude,Easy
+41,"Two pipes P and Q can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?Answer in min
+",12,15,24,8,12,Aptitude,Medium
+42,"Two pipes P and Q can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?
+",15m10s,12m20s,12m30s,14m40s,14m40s,Aptitude,Medium
+43,"A tank is filled in 5 hours by three pipes P, Q and R. The pipe R is twice as fast as Q and Q is twice as fast as P. How much time will pipe P alone take to fill the tank?Answer in hrs
+",35,20,55,10,35,Aptitude,Medium
+44,"Amit purchased 20 dozens of toys at the rate of 375 Rs per dozen .He sold each one of them at the rate of Rs 33.What was his percentage profit?
+",7.85%,5.6%,6.5%,5.8%,5.6%,Aptitude,Medium
+45,"Sachin purchased a house for Rs.75000 and a site for Rs.15000 respectively, if he sold the house for Rs.83000 and the site for Rs.10000, then find the resultant percentage of gain?
+",3.33%,5.56%,3.45%,3.76%,3.33%,Aptitude,Medium
+46,"
+One-fifth of the cost price, one-seventh of the marked price and one-sixth of the selling price are all equal. What is the gain or loss to the trader?
+",60.66%,30%,120%,20%,20%,Aptitude,Medium
+47,"The G.C.D. of 1.08, 0.36 and 0.9 is:",0.201,0.1,1.3,0.18,0.18,Aptitude,Medium
+48,"The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:
+",222,322,108,296,322,Aptitude,Medium
+49,"Six bells commence tolling together and toll at intervals of 2,4,6,8,10 and 12 seconds respectively. In 30 minutes, how many times do they toll together? 
+",16,12,22,23,16,Aptitude,Medium
+50,"Thesum of ages of Sarvesh and his father is 46 years. 3 years back father’s age was4 times more thanSarvesh’s age . Find present age ofSarvesh.
+",11,12,8,16,11,Aptitude,Medium
+51,"In 30 years, age of Kartik becomes 3 times of his present age . What is hispresent age?
+",15,18,12,16,15,Aptitude,Medium
+52,"Sumof present ages of P and Q is 60 years. 5 years hence their ages will be in theratio of 3:4 . Find P’s present age.
+",20,25,26,28,25,Aptitude,Medium
+53,"At the time of marriage , a man was 6 years elder to his wife. 12 years aftertheir marriage , his age is 6/5 times the age of his wife. What was wife’s ageat the time of marriage ?
+
+
+",20,22,16,18,18,Aptitude,Medium
+54,"Aand B are 3 years and 2 years old respectively . Their father is 40 years old.After how many years father’s age would be twice of combined age of A and B ?
+",8,12,11,10,10,Aptitude,Medium
+55,"A boy writes all the numbers from 100 to 999. The number of zeroes
+
+that he uses is 'a', the number of 5's that he uses is 'b' and the number of 8's he uses is 'c'. What is the value of b c-a?
+
+",380,480,180,280,380,Aptitude,Medium
+56,Find the remainder when 2^89 is divided by 89?,3,2,4,5,2,Aptitude,Medium
+57,"What number should be subtracted from x^3+4x^2+7x + 12 if it is to be perfectly divisible by x + 3?
+",42,41,40,39,42,Aptitude,Medium
+58,Find the unit's digit in 264^102 + 264^103,0,1,2,3,0,Aptitude,Medium
+59,"Let n be the number of different 5 digit numbers, divisible by 4 with the digits 1, 2, 3, 4, 5 and 6, no digit being repeated in the numbers. What is the value of n?
+",182,172,192,None,192,Aptitude,Medium
+60,"Find the total number of distinct vehicle numbers that can be formed using two letters followed by two numbers. Letters need to be distinct.
+",71840,64050,62200,65000,65000,Aptitude,Medium
+61,"What is the value of 
+1 x 1!+2 x 2!+3!x3!+…. n x n!;
+where n! means n factorial or n(n1)(n2)...
+",(n+1)! / n(n1),(n+1)! - 1!,(n+1)n!,n(n1)(n1)!,n(n1)(n1)!,Aptitude,Medium
+62,"How many four letter distinct initials can be formed using the alphabets of English language such that the last of the four words is always a consonant?
+",26^3 * 25,26*25*24*23,25*24*23*22,26^3*21,26^3*21,Aptitude,Medium
+63,"In how many ways can seven friends be seated in a row having 35 seats, such that no two friends occupy adjacent seats?
+",28C7,28P7,29P7,29C7,29P7,Aptitude,Medium
+64,"How much water must be added to 60 litres of milk at 1.5 litres for Rs.
+
+20 So as to have a mixture worth Rs.10 2/3 a litre?
+Answer is lts
+",15,12,10,18,15,Aptitude,Medium
+65,"Two vessels A and B contain milk and water mixed in the ratio 5:2 and 7:6 respectively.Find the ratio in which these mixture be mixed to obtain a new mixture in vessel c containing milk and water in the ratio 8:5?
+",7:9,1:7,3:8,2:9,7:9,Aptitude,Medium
+66,"How many kilograms of coffee costing Rs. 9 per kg must be mixed with 27 kg of coffee costing Rs.7 per kg so that there may be gain of 10% by selling the mixture at Rs.9.24 per kg?
+",60,50,63,77,63,Aptitude,Medium
+67,"
+P can contains a mixture of two liquids P and Q in the ratio 7:5 when 9 litres of mixture are drawn off and the can is filled with Q, the ratio of P and Q becomes 7:9. How many litres of liquid P was contained by the can initially?
+",21,28,45,36,21,Aptitude,Medium
+68,"
+A boy travelled a distance of 90Km in 9 hours partly on foot at 8 kmph and partly on bicycle at 17 kmph. Find the distance travelled on foot.
+",46,58,56,62,56,Aptitude,Medium
+69,"A train 110 meters long is running with a speed of 60 km/hr. In what time will it pass a boy who is running at 6 km/hr in the direction opposite to that in which the train is going?
+",4,3,6,5,6,Aptitude,Medium
+70,"Find the length of the platform, If a train passes a station platform in 36 seconds and a boy standing on the platform in 20 seconds and the speed of the train is 54 km/hr.
+Answer in m.",240,130,270,245,240,Aptitude,Medium
+71,"Find the length of the train, If A train takes 18 seconds to pass completely through a station 162 m long and 15 seconds through another station 120 m long.
+",80,90,110,95,90,Aptitude,Medium
+72,"A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is :
+",120,150,130,170,150,Aptitude,Medium
+73,"A train crosses a platform 100 m long in 60 seconds at a speed of 45 km/hr. The time taken by the train to cross an electric pole is :
+",51,52,53,54,52,Aptitude,Medium
+74,"Find the length of the train, If a train running at the speed of 60 km/hr crosses a pole in 9 seconds.
+",120,110,100,150,150,Aptitude,Medium
+75,"Find the speed of the train, If a train 132 m long pass a pole in 6 seconds.
+Answer in kph",77.2,79.6,80.2,79.2,79.2,Aptitude,Medium
+76,"When a student weighing 45 kgs left a class, the average weight of the remaining 59 students increased by 200g. What is the average weight of the remaining 59 students?
+",76,59,57,52.2,57,Aptitude,Medium
+77,"The difference between two angles of a triangle is 24o. The average of the same two angles is 54o.Which one of the following is the value of the greatest angle of the triangle?
+",72,45,66,60,72,Aptitude,Medium
+78,"Which one of the following numbers can be removed from the set S =
+
+{0, 2, 4, 5, 9}without changing the average of set S?
+
+",0,2,4,5,4,Aptitude,Medium
+79,"Average of ten positive numbers is x. If each number by 10%, then x
+
+:
+
+","Remains 
+unchanged",May decrease,May increase,Increase by 10%,Increase by 10%,Aptitude,Medium
+80,"40% of the employees in a factory are workers. All the remaining employees areexecutives. The annual income of each worker is Rs. 390. The annual income ofeach executive is Rs. 420. What is the average annual income of all theemployees in the factory together?
+",408,415,390,405,408,Aptitude,Hard
+81,"In a set of three numbers, the average of first two numbers is 2, the average of the last two numbers is 3, and the average of the first and the last numbers is 4. What is the average of three numbers?
+",2,3,2.5,3.5,2.5,Aptitude,Hard
+82,"The average monthly salary of 12 workers and 3 managers in a factory was Rs. 600.When one of the manager whose salary was Rs.
+
+720, was replaced with a newmanager, then the average salary of the
+team went down to 580. What is thesalary of the new manager?
+
+
+",570,520,420,690,420,Aptitude,Hard
+83,"Three math classes: X, Y, and Z, take an algebra test.
+
+The average score in class X is 83.
+
+The average score in class Y is 76.
+
+The average score in class Z is 85.
+
+The average score of all students in classes X and Y together is 79.
+
+The average score of all students in classes Y and Z together is 81.
+
+What is the average for all the three classes?
+
+",81,83,81.5,84.5,81.5,Aptitude,Hard
+84,"The average price of 10 books is Rs.12 while the average price of 8 of these books is Rs.11.75. Of the remaining two books, if the price of one book is 60% more than the price of the other, what is the price of
+each of these two books?
+
+","5,7.5","12,14","8,12","10,16","10,16",Aptitude,Hard
+85,"Find the length of the train (in meters), If the length of a train and that of a platform are equal. If with a speed of 90 k/hr, the train crosses the platform in one minute
+",750,670,603,300,750,Aptitude,Hard
+86,"A speed of 14 meters per second is the same as :
+Answer in kph",40.5,40.4,45.4,50.4,50.4,Aptitude,Hard
+87,"What is the length of the train ,If a train runs at the speed of 72 km/hr and crosses
+
+a 250 m long platform in 26 seconds.
+
+",270,265,260,280,270,Aptitude,Hard
+88,"A 270 meters longtrain running at the speed of 120 km/h crosses another train running inopposite direction at the speed of 80 km/h in 9 seconds. What is the length ofthe other train?Answer in m
+",230,320,220,210,230,Aptitude,Hard
+89,"A man is standing on arailway bridge which is 180 m long. He finds that a train crosses the bridge in20 seconds but himself in 8 seconds. Find  itsspeed.
+Answer in kph",44,45,54,55,54,Aptitude,Hard
+90,"Two trains are runningin opposite directions at same speed. If the length of each train is 120meters and they cross each other in 12 seconds,what is the common speed ? Answer in kph
+",25,40,36,54,36,Aptitude,Hard
+91,"Two train 200 m and150 m long are running on parallel rails at the rate of 40 kmph and 45 kmphrespectively. In how much time will they cross each other, if they are runningin the same direction?
+",252sec,225sec,222sec,250sec,252sec,Aptitude,Hard
+92,"A jogger running at 9km/h alongside a railway track is 40 m ahead of the engine of a 120 m long train running at 45 km/h in the same direction. In how much time will thetrain pass the jogger?
+",52sec,22sec,26sec,36sec,36sec,Aptitude,Hard
+93,"A milk vendor has 2 cans of milk .The first contains 25% water and the rest milk.The second contains 50% water. How much milk should he mix from each of thecontainer so as to get 12 litres of milk such that the ratio of water to milk is3:5?
+",1l,6l,5l,7l,6l,Aptitude,Hard
+94,"Find the value of x, If a sample of x litres from a container having a 60 litre mixture of milk and water containing milk and water in the ratio of 2 : 3 is replaced with pure milk so that the container will have milk and water in equal proportions.
+",30l,5l,6l,10l,10l,Aptitude,Hard
+95,"In what ratio must a boy mix three kinds of coffee costing him Rs 1.20,Rs 1.44 and Rs 1.74 per Kg so that the mixture may be worth Rs 1.41 per Kg?
+",11:45:7,11:77:7,27:23:6,25:45:8,11:77:7,Aptitude,Hard
+96,"A20 litre mixture of milk and water contains milk and water in the ratio 3: 2.10 litres of the mixture is removed and replaced with pure milk and theoperation is repeated once more. At the end of the two removals andreplacement, what is the ratio of milk and water in the resultant mixture?
+",9:1,5:3,3:17,17:3,9:1,Aptitude,Hard
+97,"In what ratio must a person mix three kinds of tea costing Rs.60/kg,
+
+Rs.75/kg and Rs.100 /kg so that the resultant mixture when sold at Rs.96/kg yields a profit of 20%?
+
+",1:2:4,1:4:2,3:7:6,None,1:4:2,Aptitude,Hard
+98,"How many words of 4 consonants and 3 vowels can be made from 12 consonants and 4 vowels, if all the letters are different?
+",14C4*8C3*7!,15C4*7!,12C4*4C3,12C4*4C3*7!,12C4*4C3*7!,Aptitude,Hard
+99,"There are five comics numbered from 1 to 5. In how many ways can they be arranged, so that part-1 and part-3 are never together?
+",72,56,81,45,72,Aptitude,Hard
+100,"How many factors of 25 x 36 x 52 are perfect squares?
+",21,24,45,32,24,Aptitude,Hard
+101,"Findthe number of ways in which 8064 can be resolved as the product of two factors?
+",12,14,24,19,24,Aptitude,Hard
+102,"Thereare total 12 ""TRUE"" or ""FALSE"" questions. In
+
+how many ways these questions can be answered ?
+ 
+
+",512,406,2048,1024,406,Aptitude,Hard
+103,"Three gold coins of weight 780gm, 840gm and 960gm are cut into small pieces, all of which have the equal weight. Each piece must be heavy as possible. If one such piece is shared by two persons, then how many persons are needed to give all the pieces of gold coins?
+",320,100,86,65,86,Aptitude,Hard
+104,Find the remainder when P is divided by 9?,8,2,3,4,8,Aptitude,Hard
+105,"The largest number among the following that will perfectly divide 101100–1 is:
+",10000,100000,1000,100,10000,Aptitude,Hard
+106,"Theremainder when 7^84 is divided by 342 is
+",348,1,230,114,1,Aptitude,Hard
+107,"P’sage is 50 years and Q’s age is 18 years.In how many years will P be
+
+twice as old as Q ?
+
+
+
+",20,12,14,18,14,Aptitude,Hard
+108,"Theages of A and B are in the ratio of 8:5 . If the sum of their ages is 39 years,what will the ratio of their ages after 9 years ?
+",10:8,11:6,11:8,10:6,11:8,Aptitude,Hard
+109,"Sumof present ages of A,B and C is 72 years. If 4 years ago , the ratio of theirages were 1:2:3 respectively, find A’s present age.
+",18,14,10,20,14,Aptitude,Hard
+110,"The greatest number of four digits which isdivisible by 15, 25, 40 and 75 is:
+",9600,8500,8875,8740,9600,Aptitude,Hard
+111,"Theleast multiple of 7, which leaves a remainder of 4, when divided by 6, 9,
+
+15and 18 is:
+
+",300,364,250,420,364,Aptitude,Hard
+112,"Even after reducing the marked price of a transistor by Rs. 32, a shopkeeper makes a profit of 15%. If the cost price be Rs.320, what percentage of profit would he have made if he had sold the transistor at the marked price?
+",25,120,30,20,25,Aptitude,Hard
+113,"Find the C.P of the book,If a book is sold at 5% gain instead of 5% loss,the seller gets Rs 6.72 more.
+",148.81,120.25,150.41,160.1,148.81,Aptitude,Hard
+114,"A shopkeeper sells a badminton racket, whose marked price is Rs. 30, at a discount of 15% and gives a shuttle cock costing Rs. 1.50 free with each racket. Even then he makes a profit of 20%. His cost price per racket is :
+",37,50,65,20,20,Aptitude,Hard
+115,"Two pipes P and Q together can fill a cistern in 4 hours. Had they been opened separately, then Q would have taken 6 hours more than P to fill the cistern. How much time will be taken by P to fill the cistern separately?
+",6h,5h,20h,10h,6h,Aptitude,Hard
+116,"One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
+",105m,111m,144m,64m,144m,Aptitude,Hard
+117,"Three taps P, Q and R can fill a tank in 12, 15 and 20 hours respectively. If P is open all the time and Q and R are open for one hour each alternately, the tank will be full in:
+",12h,3h ,7h,5h,7h,Aptitude,Hard
+118,"A large tanker can be filled by two pipes P and Q in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if Q is used for half the time and P and Q fill it together for the other half?
+",10min ,20min,30min,40min,30min,Aptitude,Vhard
+119,"Three pipes P, Q and R can fill a tank in 6 hours. After working at it together for 2 hours, R is closed and P and Q can fill the remaining part in 7 hours. The number of hours taken by R alone to fill the tank is:
+",10,13,14,16,14,Aptitude,Vhard
+120,"Three taps P, Q and R can fill a tank in 12, 15 and 20 hours respectively. If P is open all the time and Q and R are open for one hour each alternately, the tank will be full in:
+",12h,3h ,5h,7h,7h,Aptitude,Vhard
+121,"A trader marked the price of his commodity so as to include a profit of 25%. He allowed discount of 16% on the marked price. His actual profit was :
+",4%,5%,4.5%,6%,5%,Aptitude,Vhard
+122,"By selling a blanket for Rs. 300, a shopkeeper gains 20%. During a clearance sale, the shopkeeper allows a discount of 10% on the marked price. His gain percent during the sale is :
+",95,10%,12%,8%,8%,Aptitude,Vhard
+123,"The cost price of a book is 64% of the marked price. Calculate the gain percent after allowing a discount of 12%.
+",30%,37.5%,50.45%,65.%,37.5%,Aptitude,Vhard
+124,"A trader marked the selling price of a book at 10% above the cost price. At the time of selling, he allows certain discount and suffers a loss of 1%. He allowed a discount of :
+",8%,9%,10%,12.5%,10%,Aptitude,Vhard
+125,"If theproduct of two numbers is 2028 and their H.C.F. is 13. The number of
+
+such pairsis
+
+",1 ,2 ,4,7,2,Aptitude,Vhard
+126,"Theleast multiple of 7, which leaves a remainder of 4, when divided by 6, 9,
+",364,300,250,420,364,Aptitude,Vhard
+127,"2years ago A’s age was 6 times of B’s age . 6 years after the ratio between theages of A and B becomes 10 : 3. What is A’s present age
+",44,38,42,34,44,Aptitude,Vhard
+128,"Ifratio of Kartik’s age to that of his father is 1:5 . After 10 years their ageswill be in the ratio of 1:3 . What is the current age of father?
+",44,42,50,34,50,Aptitude,Vhard
+129,"Ratiobetween present ages of A and B is 3:4 . What is the present age of A if 4years ago , the ratio was 5:7?
+",22,24,30,34,24,Aptitude,Vhard
+130,"Ratioof present ages of father and son is 8:3 . If 10 years from now , the ratiobecomes 2:1 , find present age of son.
+",14,15,19,24,15,Aptitude,Vhard
+131,"5years ago father’s age was 3 times of his son’s age . 5 years from now , theratio between the ages of father and son becomes 11:5 . Find father’s presentage .
+",30,40,50,48,50,Aptitude,Vhard
+132,"Twoprime numbers A,B(A23, then which of thefollowing numbers
+ 
+would always divide A+B?
+
+",21,16,12,8,12,Aptitude,Vhard
+133,"Acertain number (N1) when divided by 222 leaves a remainder 35, another number(N2)whendivided by 407 leaves a remainder 47. What is the remainder when the sum ofthese two numbers is divided by 37?
+",14,8,12,22,8,Aptitude,Vhard
+134,"Whatis the remainder let after dividing 1!+2!+3!.....+10! by 7?
+",3,5,7,2,5,Aptitude,Vhard
+135,Whatis the remainder when 3^7 is divided by 8?,10,33,27,3,3,Aptitude,Vhard
+136,"Ina meet, persons from five different places have assembled in Pune HighSchool. From the five places the persons come to represent are 42,60,210,90 and84. What is the minimum number of rooms that would be required to accommodateso that each room has the same number of occupants and occupants are all fromthe same places?
+",51,71,61,81,81,Aptitude,Vhard
+137," If the letters of the word LABOUR are permuted in
+all possible ways and the words formed by the
+activity are arranged in a dictionary, Then calculate
+the rank of the word LABOUR.
+ 
+
+
+",424,442,242,244,242,Aptitude,Vhard
+138,"Aclass photograph has to be taken. The front row
+
+consists of 6 girls who aresitting. 20 boys are
+
+standing behind. The two corner positions are
+
+reserved forthe 2 tallest boys. In how many ways can
+
+the students be arranged?
+
+",81!*1440,18!*1440,12!*1440,14!*1440,18!*1440,Aptitude,Vhard
+139,If5×nP3=4× n+1P3 find n?,4,5,12,14,14,Aptitude,Vhard
+140,"There are three sections consisting of 4,5 and 6
+
+questions respectively in an examination paper.
+
+Attempting one question from each section is
+
+compulsory but a candidate do not need to attempt all
+
+the questions. In how many ways the questions can be
+attempted?  
+
+",37362,24352,25259,29295,29295,Aptitude,Vhard
+141,"Calculate the number of ways in which a a mixed double tennis players can be arranged, if there are a total of 9 couples and no couple can play in the same game.
+",2125,1221,1215,1512,1512,Aptitude,Vhard
+142,"How many litres of water should be added to a 30 litre mixture of
+
+milk and water containing milk and water in the ratio of 7 : 3 such that
+ 
+the resultant mixture has 40% water in it?
+
+",5l,6l,7l,8l,5l,Aptitude,Vhard
+143,"Themilk and water in two vessels P and Q are in the ratio 4:3 and
+
+2:3respectively. In what ratio the liquids in both the vessels be mixed to
+
+obtaina new mixture in vessel R consisting half milk and half water?
+
+",9:2,3:8,2:5,7:5,7:5,Aptitude,Vhard
+144,"Onequantity of rice at Rs 9.30 per Kg is mixed with another quality at a certainrate in the ratio 8:7. If the mixture so formed be worth Rs 10 per Kg, what is therate per Kg of the second quality ofrice?
+",10.8,11.3,14.4,12.4,10.8,Aptitude,Vhard
+145,"Avessel is filled with liquid, 3 parts of which are water and 5 parts milk. Howmuch of the mixture must be drawn off and replaced with water so that themixture may be half water and halfmilk?
+",1/3,1/5,8/11,5/13,1/5,Aptitude,Vhard
+146,"Howmany liters of water should be added to a 30 liter mixture of milk
+
+and watercontaining milk and water in the ratio of 7 : 3 such that the
+
+resultant mixturehas 40% water in it?
+
+
+",13l,5l,23l,17l,5l,Aptitude,Vhard
+147,"A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?
+",370m,530m,350m,580m,350m,Aptitude,Vhard
+148,"Two trains starting at thesame time from two stations 200 kmapart and going in opposite
+
+directions cross each other at a distance of 110 km from one of the stations. What isthe ratio of
+
+their speeds?
+
+",9:11,11:9,7:8,8:7,11:9,Aptitude,Vhard
+149,"A train covers a distance of 12 km in 10 minutes. it takes 6 seconds to pass a telegraph post, then what is the length of the train ?
+",370m,120m,350m,580m,120m,Aptitude,Vhard
+150,"Find the average speed of train during the whole journey, If
+
+distancebetween two stations P and Q is 778 km. P train covers the
+
+journey from P to Qat 84 km per hour and returns back to P with a
+
+uniform speed of 56 km per hour.
+
+",67kph,62.4kph,67.2kph,52kph,67.2kph,Aptitude,Vhard
+151,"If theaverage wages of a worker during a fortnight comprising 15
+ 
+
+
+
+consecutive workingdays was Rs.90 per day. During the first 7 days, his
+
+average wages wasRs.87/day and the average wages during the last 7
+
+days was Rs.92 /day. What washis wage on the 8thday?
+
+",112,57,97,84,97,Aptitude,Vhard
+152,"Find the total number of workers in the workshop, If theaverage salary of all the workers in a workshop is Rs.8000. The average salaryof 7 technicians is Rs.12000 and the average salary of the rest is Rs.6000.
+",12,21,34,26,21,Aptitude,Vhard
+153,"Averageof ten positive numbers is x. If each number by 10%, then x :
+",20%decrease,20%increase,10%increase,10%decrease,10%increase,Aptitude,Vhard
+154,"There are three numbers, the first is twice the second and the
+
+second is twice thethird. The average of the reciprocal of the numbers
+
+is772. The numbers are
+
+","24,9,6","16,12,3","22,10,6","24,12,6","24,12,6",Aptitude,Vhard
+155,"Wendy purchased n napkins and Juan purchased 2 fewer than half as many napkins as Wendy.
+Quantity A                                   Quantity B
+The number of                              (n-4)/2
+napkins Juan
+purchased
+
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Easy
+156,"Vicken, Roger, and Adam went to buy a $90 radio. If Roger agrees to pay twice as much as Adam, and Vicken agrees to
+pay three times as much as Adam, how much must Roger pay?
+
+",10,20,30,40,30,GRE,Easy
+157,"The profit from selling y units of a product is given by the formula 4y ? 2, where y > 0.
+Quantity A  =4 times the profit from selling y units    Quantity=16y – 4
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Easy
+158,"X^3= 27
+Y^2 = 16
+Quantity A=X                  Quantity B  =  Y
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Easy
+159,"x > y > 0
+Quantity A=4x  Quantity B=5y
+      
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Easy
+160,"Quantity A    =   The price of an item after 
+five consecutive 10% discounts are
+applied  .Quantity B= 50% of the price of the
+item
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity A is greater,GRE,Easy
+161,"0 < a < 3
+?3 < b < 0
+a and b are integers.
+Quantity A=a+b         Quantity B   =a – b
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Easy
+162,"If 3 less than twice a certain number is equal to 2 more than 3 times the number, then 5 less than 5 times the number is
+",-30,-20,-5,0,-30,GRE,Easy
+163,"g(x) = x2 - 4 and g(c) = 12. If c < 0, what is g(c - 2)?",31,30,32,33,32,GRE,Easy
+164,"If Mary has half as many cents as Nora has dollars, then Nora has what percent more cents than Mary does? (100cents = 1 dollar)
+",100%,200%,1990%,19900%,19900%,GRE,Easy
+165,"The number that is 50% greater than 60 is what percent less than the number that is 20% less than 150?
+",10,15,25,20,25,GRE,Easy
+166,"A computer that was discounted by 15% sold for $612. What was the price of the computer before the discount?
+",$721.00,$720.00,$725.00,$650.00,$720.00,GRE,Easy
+167,"New cars leave a car factory in a repeating pattern of red, blue, black, and gray cars. If the first car to exit the
+factory was red, what color is the 463rd car to exit the factory?
+
+",red,blue,cannot be determined,black,black,GRE,Easy
+168,"Jason deposits money at a bank on a Tuesday and returns to the bank 100 days later to withdraw the money. On
+what day of the week did Jason withdraw the money from the bank?
+
+",Monday,Tuesday,Thursday,Friday,Thursday,GRE,Easy
+169,"x and h are both positive integers. When x is divided by 7, the quotient is h with a remainder of 3. Which of the
+following could 
+be the value of x?
+",50,52,45,46,52,GRE,Easy
+170,"A man travels for 6 hours at a rate of 50 miles per hour. His return trip takes him 7 2
+1 hours.
+What is his average speed for the whole trip?
+
+",44.4,45.0,46.8,48.2,44.4,GRE,Easy
+171,"Last season, Arjun’s tennis record was 3 matches won for every 2 he lost. If he played 30 matches last season, how many did he win?
+",10,12,18,20,18,GRE,Easy
+172,"The average of x and y is 55. The average of y and z is 75.
+Quantity A =z-x       Quantity B=40
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Easy
+173,"Paco’s practice test scores are 650, 700, 630 and 640. What score on the 5th test would result in an average score
+of 660 for all 5 tests?
+
+",680,682,690,720,680,GRE,Easy
+174,"A number is randomly chosen from a list of 10 consecutive positive integers. What is the probability that the
+number is greater than the mean?
+
+",3/10,2/5,1/2,7/10,1/2,GRE,Easy
+175,"A restaurant menu has several options for tacos. There are 3 types of shells, 4 types of meat, 3 types of cheese, and
+5 types of salsa. How many distinct tacos can be ordered assuming that any order contains exactly one of each
+of the above choices?
+
+",185,404,180,1024,180,GRE,Easy
+176,"Quantity A   =The area of a rectangle with perimeter 40   Quantity B=  110
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Easy
+177,"Isosceles triangle ABC has two sides with lengths 2 and 11.
+Quantity A  =The length of the third side     Quantity B= 11
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Easy
+178,"What is the equation of the line that passes through (-1, -3) and has a slope of -2?
+",y=-2x-1,y=-2x-2,y=-2x-5,y=-4x-2,y=-2x-2,GRE,Easy
+179,"The center of a circle is (5, -2). (5, 7) is outside the circle, and (1, -2) is inside the circle. If the radius, r, is an
+integer, how many possible values are there for r?
+
+",4,5,6,7,4,GRE,Easy
+180,"In Europe, football, otherwise known as soccer, it the most popular sport by several orders of magnitude, whereas
+in America, fandom is fairly evenly __________ among a few different sports.
+
+",regarded,inspired,measured,apportioned,apportioned,GRE,Easy
+181,"The astrophysicist argues that our books and films about interstellar space travel are a form of mass _________,
+and that only a miracle on a scale heretofore unseen could allow a human being to voyage to even the closest
+star in another solar system.
+
+",innovation,delusion,dementia ,catastrophe,delusion,GRE,Easy
+182,"On an aptitude test in 1986, an argument posited that the possibility of conducting banking transactions from home
+was as likely as flying cars, an argument that today sounds ___________.
+
+",prescient,paradoxical,preposterous,pithy,preposterous,GRE,Easy
+183,"Napoleon is of course most famous for his military triumphs, but his innovative code of law had a subtler but more
+_____ impact, as its principles strongly influenced legal codes well into the 20th century.
+
+",renowned,enduring,fleeting,insidious,enduring,GRE,Easy
+184,"Many ___________ people feared for the life of Ronald Reagan because since 1840, every president elected in a
+year ending in zero had died in office.
+
+",knowledgeable,mathematical,superstitious,addled,superstitious,GRE,Easy
+185,"Every generation is accused of slacking by the preceding ones, before in turn calling their own progeny
+lackadaisical; such is the _________ of life.
+
+",irony,circle,comedy,amusing,circle,GRE,Easy
+186,"Although retired, the professor takes pains to remain _________ the latest developments in her field.
+",abreast of,akimbo to,obtuse to,subservient to,abreast of,GRE,Easy
+187,"While the colonists would eventually push westward, first, they were in for a long, difficult winter, and the main
+challenge was to _________ their existing resources.
+
+",steward,upend,procure,sell,steward,GRE,Easy
+188,"James Joyce, the author of many novels, including Lady Chatterley’s Lover, saw deeply into the hearts of his
+characters, but, in a life irony as subtle yet piercing as those endured by his characters, he himself could barely
+_________ text well enough to proof his own galleys.
+
+",see ,feel,walk,move,see,GRE,Easy
+189,"Emblematic of the slaughter of the First World War, 60,000 British soldiers died for naught on the first day of the
+battle of the Somme, literally consumed into a stew of blood and _________.
+
+",grief,gore,steel,bullets,gore,GRE,Easy
+190,"Forty years ago, anthropologists firmly believed that Neanderthals and modern homo sapiens never mated, but
+advances in genetic testing proved that incorrect — such is the _________ nature of science.
+
+",fallacious,advancing,vacillating,counter,advancing,GRE,Easy
+191,"The daily routine of responding to lobbyists and exchanging polemics with intransigent political opponents seemed
+at odds with the president’s _________ tendencies.
+
+",quixotic,contentious,tenacious,altruistic,quixotic,GRE,Easy
+192,"A field trip was arranged so that this troupe of _________ dancers could observe the real masters of their art.
+",novice,lithe,torpid,expert,novice,GRE,Easy
+193,"The exhibit is not so much a retrospective as a _________; the artist’s weaker early work is glossed over, and any
+evidence of his ultimate dissolution is absent entirely.
+
+",tirade,panacea,crescendo,eulogy,eulogy,GRE,Easy
+194,"After a long, hard practice in the summer sun, the players were visibly _________.
+",hale,vigorous,enervated,lissome,enervated,GRE,Easy
+195,"While he says that he did not mean to kill, some feel that his actions are _________ murder.
+",superseded by,on par with,an homage to,an accrual of,on par with,GRE,Easy
+196,"For most of the 20th century, American political contentions reflected pragmatic rather than ideological
+differences; candidate debates centered around whether programs were _________.
+
+",voluble,partisan,feasible,innocuous,feasible,GRE,Easy
+197,"According to Mercy Amba Oduyoye in Daughters of Anowa: African Women and Patriarchy, the
+women of the Asante people of Ghana participated in war as nurses or in providing supplies, but only those who
+had not yet reached or who were past childbearing age. If such women died in battle, they died “as individuals
+and not as potential sources of human life.”
+As such, many old women engaged in valiant acts, sometimes sacrificing their own lives, to defend those they
+had given life to.
+1.Which of the following can be inferred from the passage?
+
+","The deaths of Asante women of childbearing age were lamented more than were the deaths of other
+women.
+
+","Older Asante women were more courageous than younger Asante women.
+","
+Some of those who worked as nurses or in providing supplies died in battle.","Men could not be considered “potential sources of human life.”
+",Some of those who worked as nurses or in providing supplies died in battle.,GRE,Easy
+198,"A supernova is a brief stellar explosion so luminous that it can briefly outshine an entire galaxy. While
+the explosion itself takes less than fifteen seconds, supernovae take weeks or months to fade from view;
+during that time, a supernova can emit an amount of energy equivalent to the amount of energy the sun is
+expected to radiate over its entire lifespan.
+ Supernovae generate enough heat to create heavy elements, such as mercury, gold, and silver. Although
+supernovae explode frequently, few of them are visible (from Earth) to the naked eye.
+In 1604 in Padua, Italy, a supernova became visible, appearing as a star so bright that it was visible in
+daylight for more than a year. Galileo, who lectured at the university, gave several lectures widely attended by
+the public. The lectures not only sought to explain the origin of
+
+the “star” (some posited that perhaps it was merely “vapour near the earth”), but seriously undermined the
+views of many philosophers that the heavens were unchangeable. This idea was foundational to a worldview
+underpinned by a central and all-important Earth, with celestial bodies merely rotating around it.
+
+1)The primary purpose of the passage is to","give the history of supernovae
+","describe a shift
+ in thought as a result of a natural event","juxtapose 
+two opposing views about supernovae","corroborate the view that the earth is not central to the universe
+","describe a shift in thought as a result of a natural event
+",GRE,Easy
+199,"A supernova is a brief stellar explosion so luminous that it can briefly outshine an entire galaxy. While
+the explosion itself takes less than fifteen seconds, supernovae take weeks or months to fade from view;
+during that time, a supernova can emit an amount of energy equivalent to the amount of energy the sun is
+expected to radiate over its entire lifespan.
+Supernovae generate enough heat to create heavy elements, such as mercury, gold, and silver. Although
+supernovae explode frequently, few of them are visible (from Earth) to the naked eye.
+In 1604 in Padua, Italy, a supernova became visible, appearing as a star so bright that it was visible in
+daylight for more than a year. Galileo, who lectured at the university, gave several lectures widely attended by
+the public. The lectures not only sought to explain the origin of
+the “star” (some posited that perhaps it was merely “vapour near the earth”), but seriously undermined the
+views of many philosophers that the heavens were unchangeable. This idea was foundational to a worldview
+underpinned by a central and all-important Earth, with celestial bodies merely rotating around it.
+2)Which of the following can be inferred by the passage?
+","Supernovae can take over a year to fade from view.
+","Prior
+ to 1604, no one had ever seen a supernova.","Galileo convinced
+ philosophers of the incorrectness of their views.","explain how science and philosophy 
+interrelate","Supernovae can take 
+over a year to fade from view.",GRE,Easy
+200,"If a line
+ has slope -2 and passes through the points (4, 9) and (6, y), what is the value of y?",5,6,7,8,5,GRE,Easy
+201,"In the xy coordinate plane, lines l1 and l2 intersect at (2, 4). If the equation of l1 is y = px + 16 and the equation of
+l2 is y = mx + p, where m and p are constants, what is the value of m?
+
+",8,11,12,5,5,GRE,Medium
+202,"Five students in a classroom are lining up one behind the other for recess. How many different lines are possible?
+",5,10,120,130,120,GRE,Medium
+203,"An Italian restaurant boasts 320 distinct pasta dishes. Each dish contains exactly one pasta, one meat, and one sauce.
+If there are 8 pastas and 4 meats available, how many sauces are there to choose from?
+
+",15,10,20,25,10,GRE,Medium
+204,"pq ? 0
+Quantity A=  (p + q)3      Quantity B=p3+ q3
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Medium
+205,"A 10-student class is to choose a president, vice president, and secretary from the group. Assuming that no person
+can occupy more than one post, in how many ways can this be accomplished?
+
+",710,720,730,740,720,GRE,Medium
+206,"a is 60% of b, b is 40% of c, and c is 20% of d, then 6d is what percent of 20a?
+",625,650,675,700,625,GRE,Medium
+207,"A man exchanged a dollar bill for change and received 7 coins, none of which were half dollars.
+How many of these coins were dimes?
+
+",1,4,5,Cannot be determined,Cannot be determined,GRE,Medium
+208,"25 employees donated a total of $450 to charity. If 15 employees donated at least $12 and 9 employees donated at
+least $19, what is the maximum amount, in dollars, that the last employee could have donated?
+
+",101,100,99,98,99,GRE,Medium
+209,"Two identical pies are cut into a total of 16 equal parts. If each part is then split equally among three people, what
+fraction of a pie does each person receive?
+
+",1/48,1/24,1/16,3/16,1/24,GRE,Medium
+210,"A cockroach population doubles every three days. If there were c cockroaches on June 1st, what was the percent
+increase in the population on July 1st? (June has 30 days.)
+
+",900%,1000%,9999%,102300%,102300%,GRE,Medium
+211,"In a certain town, of the total population is employed. Among the unemployed population, the ratio of males to
+females is 5 : 7. If there are 40,000 employed people in the town, how many females are unemployed?
+
+",16000,25000,35000,65000,35000,GRE,Medium
+212,"Fiber X Cereal is 55% fiber. Fiber Max Cereal is 70% fiber. Sheldon combines an amount of the two cereals in a
+single bowl of mixed cereal that is 65% fiber. If the bowl contains 12 ounces of cereal, how much of the cereal,
+in ounces, is Fiber X?
+
+",3,4,6,8,4,GRE,Medium
+213,"Sector A and Sector B are sectors of two different circles.
+Sector A has a radius of 4 and a central angle of 90°.
+Sector B has a radius of 6 and a central angle of 45°.
+Quantity A  =The area of Sector A       Quantity B=
+      The area of Sector B
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Medium
+214,"In the coordinate plane, lines j and k are parallel. The x-intercept of line j is greater than that
+of line k and the product of their slopes is positive.
+Quantity A=The y-intercept of line j          Quantity B=
+    The y-intercept of line k
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Medium
+215,"In the coordinate plane, points (a, b) and (c, d) are equidistant from the origin.
+|a| > |c|
+Quantity A = |b|       Quantity B=|d|
+         
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Medium
+216,"Lines k and p are perpendicular, neither is vertical, and p passes through the origin.
+Quantity A = The product of the slopes of
+lines k and p       Quantity B=The product of the y-intercepts
+of lines k and p
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Medium
+217,"A set of 7 integers has a range of 2, an average of 3, and a mode of 3.
+Quantity A= The third number in the
+ set when the numbers
+are arranged in ascending order .   Quantity B=The fifth number in the set when the numbers
+are arranged in ascending order
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,,GRE,Medium
+218,"Sn = 3n + 3
+Sequence S is defined for all integers n such that 0 < n < 10,000
+Quantity A=The median of sequence S             Quantity B=The mean of sequence S
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Medium
+219,"Quantity A      =The number of distinct prime factors of 100,000         Quantity B=   The number of distinct prime factors of  99,000
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Medium
+220,"A parallelogram has two sides with length 10 and two sides with length 5.
+Quantity A =The area of the parallelogram     Quantity B=30
+ 
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Medium
+221,"After the US Civil War, “carpetbaggers”—so-called because they carried suitcases made of inexpensive carpeting
+material— _________ the South, hoping to turn a quick profit.
+
+",inundated,vanquished,blacklisted,berated,inundated,GRE,Medium
+222,"December’s earthquake was but a _________ to a terrible year for a small island nation recently wracked by civil
+strife and devastating tropical storms.
+
+",prologue,catharsis,coda,homily,coda,GRE,Medium
+223,"After many years of war and bloodshed, some became _________ suffering, casting a blind eye to scenes of
+misery around them.
+
+",exempted from,dominant over,maudlin over,inured to,inured to,GRE,Medium
+224,"After a brief initial struggle over power, the group elected a leader and _________ into a surprisingly harmonious
+team.
+
+",fractured ,coalesced,amortized,syncopated,coalesced,GRE,Medium
+225,"The director inserted deliberate _________ into the play—for example, Hamlet typed his letters to Ophelia on a
+laptop.
+
+",platitudes,paradigms,neologisms,anachronisms,anachronisms,GRE,Medium
+226,"The ancient tablet presents a true _________: none have been able to decode it.
+",stanza,gem,incentive,enigma,enigma,GRE,Medium
+227,"Just as reminiscences of a childhood spent in rural Mexico color the poet’s work, so too does the experience of
+war _________ her poetry.
+
+",mimic,inform,invalidate,defer,inform,GRE,Medium
+228,"During the German occupation of France, the draconian measures of the occupiers met armed resistance from
+civilian _________, inspired by desperate conditions to fight in their own streets.
+
+",writers ,fighters,politicians,mercenaries,fighters,GRE,Medium
+229,"Representative government arose in part from dissatisfaction with too many monarchs making _________
+decisions without regard for precedents.
+
+",considered,malicious,erratic,pessimistic,erratic,GRE,Medium
+230,"Because the Lewis and Clark expedition through the West was conceived primarily as a mapping project,
+government officials were _________ by the wealth of information on a myriad of topics that the explorers
+gathered.
+
+",flabbergasted,crushed,bored,aggravated,flabbergasted,GRE,Medium
+231,"Only by ignoring Afghanistan’s long history as a military quagmire could pundits pontificate that fresh infusions of
+men and material would lead to _________ victory.
+
+",pyrrhic,swift,ephemeral,fleeting,swift,GRE,Medium
+232,"Geneticists find Iceland a living laboratory for the study of _________ because virtually all of its current 300,000
+citizens descend from less than a thousand Icelanders who survived the medieval Black Death.
+
+",diversity,therapy,history,revivification,diversity,GRE,Medium
+233,"Given the influx of information via social media, the only way that a person can function effectively is to
+_________, to metaphorically separate the wheat from the chaff.
+
+",delete,triage,respond,requite,triage,GRE,Medium
+234,"In the 19th century, Thomas Carlyle called economics “the dismal science,” in part because of Malthus’s theory
+that population growth would outpace our natural resources, causing widespread _________.
+
+",dearth,rapture,debauchery,pulchritude,dearth,GRE,Medium
+235,"In uncertain times, _________ theories often gain greater and faster adherence among the populace than proven
+ones do.
+
+",assayed,irrefutable,putative,corroborated,putative,GRE,Medium
+236,"While the legend of Custer’s last stand is commonly accepted and oft cited as an example of fortitude in the face
+of adversity, recent studies of the remains indicate that, _________, many soldiers chose suicide rather than
+risk capture by the Sioux.
+
+",risibly,tragically,amusingly,remarkably,remarkably,GRE,Medium
+237,"In the early 1920’s, Paul Cassirer, a Berlin art dealer, was famous not only for his clients, such as Renoir, but also
+for _________ a credulous art world by correctly exposing several purported Van Gogh works as forgeries.
+
+",apprising,deluding,indicting,misleading,apprising,GRE,Medium
+238,"Henri Matisse’s The Ochre Head represents the artist’s exuberant display of his new mastery of a
+technique once peculiar to Picasso. Matisse has learned to artfully separate color and drawing. The painting
+depicts a head and shoulders, a bouquet of red flowers in a dark blue vase sitting upon a bench, a framed
+drawing of a woman’s head, and an unframed
+5
+painting or drawing, also of a woman. But what is most striking about the painting is the way Matisse has begun
+to allow his colors and his forms to play freely, even while they are coordinated. The ochre of the head runs
+out past the form. Bits of blue from the bench appear in the man’s neckline or along his shoulder. The colors
+of the various frames and surfaces of the drawing on the wall overlap and refuse to be constrained by definite
+lines of form. Although
+10
+this technique is not given the kind of free reign Picasso allows it in his Cubist period or in works such as
+Minotaur, it is still a stunning development for Matisse. And he seems aware of this fact. The painting’s
+composition references Picasso’s Still Life with Ancient Head from 1925, signaling Matisse’s awareness that
+he is borrowing from his younger colleague.
+40. The author uses the word peculiar to mean which of the following?
+
+",strange,abstract,unique,unknown,unique,GRE,Medium
+239,"Henri Matisse’s The Ochre Head represents the artist’s exuberant display of his new mastery of a
+technique once peculiar to Picasso. Matisse has learned to artfully separate color and drawing. The painting
+depicts a head and shoulders, a bouquet of red flowers in a dark blue vase sitting upon a bench, a framed
+drawing of a woman’s head, and an unframed
+5
+painting or drawing, also of a woman. But what is most striking about the painting is the way Matisse has begun
+to allow his colors and his forms to play freely, even while they are coordinated. The ochre of the head runs
+out past the form. Bits of blue from the bench appear in the man’s neckline or along his shoulder. The colors
+of the various frames and surfaces of the drawing on the wall overlap and refuse to be constrained by definite
+lines of form. Although
+10
+this technique is not given the kind of free reign Picasso allows it in his Cubist period or in works such as
+Minotaur, it is still a stunning development for Matisse. And he seems aware of this fact. The painting’s
+composition references Picasso’s Still Life with Ancient Head from 1925, signaling Matisse’s awareness that
+he is borrowing from his younger colleague.
+3)According to the passage, all of the following are true of The Ochre Head EXCEPT:
+
+","The artist did not color between the lines.
+","It depicts household objects.
+","It is considered among the best of Matisse’s work.
+","Its arrangement is similar to that of a piece by Picasso.
+","It is considered among the best of Matisse’s work.
+",GRE,Medium
+240,"Henri Matisse’s The Ochre Head represents the artist’s exuberant display of his new mastery of a
+technique once peculiar to Picasso. Matisse has learned to artfully separate color and drawing. The painting
+depicts a head and shoulders, a bouquet of red flowers in a dark blue vase sitting upon a bench, a framed
+drawing of a woman’s head, and an unframed
+
+painting or drawing, also of a woman. But what is most striking about the painting is the way Matisse has begun
+to allow his colors and his forms to play freely, even while they are coordinated. The ochre of the head runs
+out past the form. Bits of blue from the bench appear in the man’s neckline or along his shoulder. The colors
+of the various frames and surfaces of the drawing on the wall overlap and refuse to be constrained by definite
+lines of form. Although
+
+this technique is not given the kind of free reign Picasso allows it in his Cubist period or in works such as
+Minotaur, it is still a stunning development for Matisse. And he seems aware of this fact. The painting’s
+composition references Picasso’s Still Life with Ancient Head from 1925, signaling Matisse’s awareness that
+he is borrowing from his younger colleague.
+2)The main idea of the passage is to
+
+","describe an artistic work and its inspiration
+","describe how Matisse surpassed Picasso
+","describe how Matisse developed his style
+","describe a representative example of Matisse’s work
+","describe an artistic work and its inspiration
+",GRE,Medium
+241,"If x < y and 0 < x + y, which of the following must be negative?
+",(-x),(-y),2x+y,2x-y,(-y),GRE,Hard
+242,"Mr. Adams had a coin collection including only nickels, dimes, and quarters. He had twice as
+many dimes as he had nickels, and half as many quarters as he had nickels. If the total face
+value of his collection was $300.00, how many quarters did the collection contain?
+
+",75,100,250,400,400,GRE,Hard
+243,"x = |y|
+Quantity A =
+|x|       Quantity B=  y
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Hard
+244,"Melinda and Shirley worked together to make hamburger patties. Shirley worked for 1 hour and 45 minutes, Melinda worked for 45
+minutes, and they split their earnings according to the amount of time each spent working. Melinda’s hourly rate, however, is twice
+that of Shirley’s. If the two together earned $48.75, what was Shirley’s hourly rate?
+
+",15,20,25,30,15,GRE,Hard
+245,"A bookstore stocks 1/5 of its books as fiction works, and 1/3 less than the fiction books as self-help books. What fraction of the total books
+are the fiction and self-help books?
+
+",3/5,11/30,4/15,1/3,1/3,GRE,Hard
+246,"A square region has an area of b square inches and a perimeter of n inches. If n = what is the length, in inches, of the side of the square?
+",12,48,144,24,12,GRE,Hard
+247,"A number x is 32% of a number y. If y is 20% of z, then, expressed in terms of x, z =
+",0.0064x,0.64x,6.4x,x/0.0064,x/0.0064,GRE,Hard
+248,"S^2 > T^2, which of the following must be true?
+",S>T,S<T,|S|>|T|,ST<0,|S|>|T|,GRE,Hard
+249,"Maribel must divide 60 candies among herself and her 12 cousins, although there is no requirement that the
+candies be divided equally. If Maribel is to have more candies than everyone else, what is the least number of
+candies she could have?
+
+",5,6,7,8,6,GRE,Hard
+250,"IF X>Y and XY!=0
+ Quantity A              Quantity B
+X^2 /(Y+1/Y)      Y^2 /(x+1/x)
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Hard
+251,"To the nearest integer, the non-negative fourth root of integer n rounds to 3. Inclusive, n is between
+",0 and 1,2 and 3,40 and 150,4 and 9,40 and 150,GRE,Hard
+252,"m/p>n/p
+Quantity A  =m       Quantity B=n
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Hard
+253,"A chemist is mixing a solution of acetone and water. She currently has 30 ounces mixed, 10 of which are acetone.
+How many ounces of acetone should she add to her current mixture to attain a 50/50 mixture of acetone and
+water if no additional water is added?
+
+",2.5,10,5,6,10,GRE,Hard
+254,"By the end of July, a certain baseball team had played 80% of the total games to be played that season and had won
+50% of those games. Of the remaining games for the season, the team won 60%.
+Quantity A  =    
+Percentage of total games won for the season   Quantity B=52%
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Hard
+255,"Two cities are 800 miles apart. At 3:00 p.m., Plane A leaves one city, traveling toward the other
+city at a speed of 600 miles per hour. At 4:00 the same afternoon, Plane B leaves the first city,
+traveling in the same direction at a rate of 800 miles per hour. Which of the following answers
+represents the actual result?
+
+","Plane
+ A arrives first, by an hour or more.","Plane A arrives after Plane B, by an hour or more.
+","The two planes arrive at exactly the same time.
+","Plane A arrives after Plane B, by less than an hour.
+","Plane A arrives after Plane B, by an hour or more.
+",GRE,Hard
+256,"3 numbers have a range of 2 and a median of 4.4
+Quantity A     
+The greatest of the numbers Quantity B=  5.4
+
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both A and B can be greater,GRE,Hard
+257,"How many 10-digit 
+numbers can be formed using only the digits 2 and 5?",210,10!,200,20!,210,GRE,Hard
+258,"The substitute French teacher accidentally walked into the wrong classroom, creating _________ situation when
+she began speaking French to 15 mystified physics students.
+
+",an odious,a potable,a risible,a cursory,a risible,GRE,Hard
+259,"The beauty pageant contestant told the judges she wanted world peace, but her suggestion to bring about world
+peace was _________ —apparently, she naively thinks everyone could just be told to “love one another” and all
+the world’s disagreements would fade away.
+
+",convoluted,facile,dulcet,amicable,facile,GRE,Hard
+260,"Introverts 
+prefer a quiet, reflective lifestyle, whereas extroverts are more _________.",doctrinaire,convivial,jejune,modish,convivial,GRE,Hard
+261,"The transformation of the NFL from a running-oriented game to a passing-oriented game demonstrates that, in any
+profession, when the _________ proves more successful than the time-honored, industry leaders will embrace
+the new with alacrity.
+
+",aerial,exciting,novel,conventiona;,novel,GRE,Hard
+262,"The children’s story—seemingly a simple tale of animals gathering for a picnic in the forest—took _________
+turn at the end, admonishing readers to always be honest.
+
+",a generous,a cynical,a didactic,an irate,a didactic,GRE,Hard
+263,"We tried to call her over to where we were standing, down at the edge of the stage, but she couldn’t hear us over
+the ___________.
+
+",clamor,music,rabble,host,clamor,GRE,Hard
+264,"The painter was just as famous for his personality as for his work; unlike the many pretentious and pontificating
+men in his field, he was known to be entirely __________.
+
+",shrewd,artless,klutzy,adroit,artless,GRE,Hard
+265,"The newest romantic comedy wasn’t exactly bad, but simply _________; it had laughs, but they were all jokes
+you’d heard before.
+
+",atrocious,amusing,trite,witty,trite,GRE,Hard
+266,"An obsession with aesthetics ___________ all the work of the computer company; even their unsuccessful
+products manage to look like pieces of modernist sculpture.
+
+",underpins,irradiates,underserves,saturates,underpins,GRE,Hard
+267,"Oftentimes, when administrators force teachers to cleave too closely to a federal curriculum, those teachers feel
+__________, because the mandatory curriculum curbs their sense of being creative and dynamic educators.
+
+",crushed,confounded,tormented,undermined,undermined,GRE,Hard
+268,"The Fed knows that a certain level of financial stability can be attained by lowering interest rates, yet if it overuses
+this power, it risks losing its most reliable means of _________ a crisis.
+
+",assuaging,interring,exacerbating,compounding,assuaging,GRE,Hard
+269,"Even though Mariposa loved taking on roles that involved a lot of lines, she was excited to be playing a more
+__________ character, which would require her to focus more on gesture and expression.
+
+",mute,dejected,dramatic,curt,curt,GRE,Hard
+270,"Most physics textbooks are dense and abstruse, whereas Richard Feynman can describe the most recondite
+mysteries with impressive __________.
+
+",panache,lucidity,prowess,sagacity,lucidity,GRE,Hard
+271,"The beauty queen’s mother could not believe her daughter had been disqualified for hitting one of the judges with
+her baton, and she would not be __________ by the official’s offer of a free steak dinner.
+
+",placated,pleased,mollified,deterred,mollified,GRE,Hard
+272,"Though Hamlet is famous for being _________, he still manages to go on something of a killing spree in
+Shakespeare’s play, proving that he is hardly paralyzed with depression.
+
+",violent,morose,melancholy,indecisive,morose,GRE,Hard
+273,"The representative’s violent ascension to prominence began with a __________ attack on the comparatively
+conciliatory leaders of his own party.
+
+",biased,savage,imperious,partisan,savage,GRE,Hard
+274,"A single short story can suggest a desired response from the reader. It is a difficult task, though, to create
+a world within a single short story and then repeat this world again in other stories while maintaining a
+consistent flow of ideas. Many authors prefer to use the same setting, indeed, often the same characters in
+each story. Isabel Allende’s Diez Cuentos’ de Eva
+5 Luna comes to mind. In these stories, Allende uses the small town of Agua Santa as the setting for the entire
+collection.
+Woman Hollering Creek is a collection of short stories by Sandra Cisneros. Rather than using the same
+characters or setting throughout the collection, Cisneros takes a different approach to relating her stories to
+one another. Much of the burden, in fact, is placed on
+10
+the reader, for the characters change each time, as does the setting. Furthermore, while the characters are
+largely Mexican American immigrant women, each character presents a distinct style and literary voice. What
+these works have in common is more intuitive; mood, circumstance, time, tone, and imagery all play a role in
+creating the world in which the stories take place.
+63. The author of the passage would be most likely to agree with which of the following statements?
+
+","Short story collections depend on the reader to find the common thread that ties the stories together.
+","Isabel Allende uses the same setting for the majority of her fiction.
+","It is possible to create a coherent short story collection if the stories take place in vastly different
+times and places.
+
+","Intuition is a more important aspect of Sandra Cisneros’s writing than the characters or the setting.
+","It is possible to create a coherent short story collection if the stories take place in vastly different
+times and places.
+
+",GRE,Hard
+275,"A single short story can suggest a desired response from the reader. It is a difficult task, though, to create
+a world within a single short story and then repeat this world again in other stories while maintaining a
+consistent flow of ideas. Many authors prefer to use the same setting, indeed, often the same characters in
+each story. Isabel Allende’s Diez Cuentos’ de Eva
+5 Luna comes to mind. In these stories, Allende uses the small town of Agua Santa as the setting for the entire
+collection.
+Woman Hollering Creek is a collection of short stories by Sandra Cisneros. Rather than using the same
+characters or setting throughout the collection, Cisneros takes a different approach to relating her stories to
+one another. Much of the burden, in fact, is placed on
+10
+the reader, for the characters change each time, as does the setting. Furthermore, while the characters are
+largely Mexican American immigrant women, each character presents a distinct style and literary voice. What
+these works have in common is more intuitive; mood, circumstance, time, tone, and imagery all play a role in
+creating the world in which the stories take place.
+2)According to the passage, which of the following characterizes both short stories by Isabel Allende and short
+stories by Sandra Cisneros?
+
+
+","Similarities in tone
+",Similarities in time,Similarities in setting,none,none,GRE,Hard
+276,"Scottish economist Adam Smith’s The Wealth of Nations heralded—or caused—the market-based
+economic system that has increasingly become the norm since the book’s publication in 1776. Some say that
+Smith’s magnum opus was to economics as Newton’s Principia Mathematica was to physics or as Darwin’s
+On the Origin of Species was for biology.
+5 Certainly the book made its impact in the early United States.
+1776 predates wide usage of the term capitalism, now commonly associated with Smith, and which
+Smith refers to as a “system of natural liberty.” Smith presented what we today consider Economics 101:
+supply and demand, and the importance of specialization and the division of labor. He also posited that
+individuals pursuing their own self-interest could
+10 unintentionally create a more just society by so doing—an idea sometimes referred to as the “Invisible Hand.”
+Even Smith’s critics do not deny the book’s immense influence. Murray Rothbard levels the criticism
+that The Wealth of Nations, in fact, eclipsed public knowledge of all economists—better ones, he says—
+before Smith.
+Consider each of the answer choices separately and indicate all that apply.
+65. Which of the following statements is not in contradiction with the opinions of Murray Rothbard as expressed in
+the passage?
+
+","Smith was possibly the third best economist of all time.
+","Adam Smith was not particularly influential.
+","The Wealth of Nations should not have been as influential as it was.
+","A market in which there are more buyers than sellers, thus forcing the price of goods upwards.
+","Smith was possibly the third best economist of all time.
+",GRE,Hard
+277,"Scottish economist Adam Smith’s The Wealth of Nations heralded—or caused—the market-based
+economic system that has increasingly become the norm since the book’s publication in 1776. Some say that
+Smith’s magnum opus was to economics as Newton’s Principia Mathematica was to physics or as Darwin’s
+On the Origin of Species was for biology.
+5 Certainly the book made its impact in the early United States.
+1776 predates wide usage of the term capitalism, now commonly associated with Smith, and which
+Smith refers to as a “system of natural liberty.” Smith presented what we today consider Economics 101:
+supply and demand, and the importance of specialization and the division of labor. He also posited that
+individuals pursuing their own self-interest could
+10 unintentionally create a more just society by so doing—an idea sometimes referred to as the “Invisible Hand.”
+Even Smith’s critics do not deny the book’s immense influence. Murray Rothbard levels the criticism
+that The Wealth of Nations, in fact, eclipsed public knowledge of all economists—better ones, he says—
+before Smith.
+Consider each of the answer choices separately and indicate all that apply.
+Which of the following would be an example of the “Invisible Hand” as described by Adam Smith?
+
+","A group of moviegoers who are able to get cheaper tickets for a film by buying their tickets as a
+group.
+
+","A society in which the division of labor frees certain people to pursue careers that might seem
+impractical in a non-capitalist society.
+
+","A university in which classes are first-come, first-served, thereby equitably distributing courses
+according to the passion and dedication of students.
+
+","A stock exchange in which each trader acts according to a different set of information, such that
+certain commodities become hyped and their prices overinflated.
+
+","A university in which classes are first-come, first-served, thereby equitably distributing courses
+according to the passion and dedication of students.
+
+",GRE,Hard
+278,"By the third quarter, the opposing team had lost the upper hand entirely, the game becoming an utter _________,
+a fact made most evident, perhaps, by the escalating jeers coming from the nearby bleachers.
+
+",forgery,rout,fallacy,infirmity,rout,GRE,Hard
+279,"Central to the challenger’s platform was the argument that the incumbent had ultimately ________ the
+agreements he had initially championed during his first stint in office.
+
+",fielded,mustered up,honed,abrogated,abrogated,GRE,Hard
+280,"A 6-sided cube has sides numbered 1 through 6. If the cube is rolled twice, what is the probability that the sum of
+the two rolls is equal to 8?
+
+",1/9,1/8,5/36,1/6,5/36,GRE,Vhard
+281,"A coin with heads on one side and tails on the other has a 1/2 probability of landing on heads. If the coin is flipped
+5 times, how many distinct outcomes are possible if the last flip must be heads? Outcomes are distinct if they
+do not contain exactly the same results in exactly the same order.
+
+",18,17,16,20,16,GRE,Vhard
+282,"Five students, Adnan, Beth, Carol, Dan, and Edmund are to be arranged in a line. How many such arrangements are
+possible if Beth is not allowed to stand next to Dan?
+
+",24,48,72,96,72,GRE,Vhard
+283,"A polygon has 12 edges. How many different diagonals does it have? (A diagonal is a line drawn from one vertex
+to any other vertex inside the given shape. This line cannot touch or cross any of the edges of the shape. For
+example, a triangle has zero diagonals and a rectangle has two.)
+
+",54,66,108,132,54,GRE,Vhard
+284,"2 foot by 2 foot by 2 foot solid cube is cut into 2 inch by 2 inch by 4 inch rectangular solids. What is the ratio
+of the total surface area of all the resulting smaller rectangular solids to the surface area of the original cube? 
+
+",2:1,4:!,6:1,10:1,10:1,GRE,Vhard
+285,"If a right circular cylinder’s radius is halved and its height doubled, by what percent will the volume increase or
+decrease?
+
+",50% decrease,no change,25% increase,50% increase,50% decrease,GRE,Vhard
+286,"A triangle has sides of 8, m, and n.
+Quantity A   =   
+|m - n|        Quantity B=8
+
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Vhard
+287,"The sum of four consecutive integers is -2
+Quantity A= 
+The smallest of the four integers Quantity B=-2
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Vhard
+288,"Working alone at their respective constant rates, Audrey can complete a certain job in 4 hours, while Ferris can do
+the same job in 3 hours. Audrey and Ferris worked together on the job and completed it in 2 hours, but while
+Audrey worked this entire time, Ferris worked for some of the time and took 3 breaks of equal length. How
+many minutes long was each of Ferris’s breaks?
+",5,10 ,15,20,10,GRE,Vhard
+289,"Working continuously 24 hours a day, a factory bottles Soda Q at a rate of 500 liters per second and Soda V at a
+rate of 300 liters per second. If twice as many bottles of Soda V as of Soda Q are filled at the factory each day,
+what is the ratio of the volume of a bottle of Soda Q to a bottle of Soda V?
+",3/10,5/6,6/5,10/3,10/3,GRE,Vhard
+290,"300 test results are integers ranging from 15 to 75, inclusive. Dominick’s result is clearly in the 80th percentile
+of those results, not the 79th or the 81st.
+Quantity A =
+Number of other test results in the same
+percentile as Dominick’s Quantity B= Maximum number of other test-takers with the
+same result as Dominick
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Vhard
+291,"The outcome of a standardized test is an integer between 151 and 200, inclusive. The percentiles of 400 test
+scores are calculated, and the scores are divided into corresponding percentile groups.
+Quantity A =
+Minimum number of integers between 151 and 200,
+inclusive, that include more than one percentile group
+Quantity B=Minimum number of percentile
+groups that correspond to a score of
+200
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity A is greater,GRE,Vhard
+292,"The probability that Gary will eat eggs for breakfast on any given day is 3/7. The probability that Gary will eat
+cereal for breakfast on any given day is 4/7. Gary never has both eggs and cereal for breakfast on the same day.
+Quantity A=
+Probability that Gary eats eggs or cereal for breakfast on a particular day  Quantity B=1
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Vhard
+293,"The probability that Maria will eat breakfast on any given day is 0.5. The probability that Maria will wear a sweater
+on any given day is 0.3. The two probabilities are independent of each other.
+Quantity A =
+The probability that Maria eats breakfast or wears a sweater Quantity B=0.8
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Quantity B is greater,GRE,Vhard
+294,"A trapezoid has an area of 42 and a height that is less than or equal to 6.
+Quantity A =
+The height of the trapezoid.Quantity B= The length of the longer base of the trapezoid
+","Quantity A is greater
+","Quantity B is greater
+",Both are equal,Both A and B can be greater,Both are equal,GRE,Vhard
+295,"A 1 meter by 1 meter by 1 meter sheet of paper is to be cut into 4 centimeter by 5 centimeter rectangles. How
+many such rectangles can be cut
+ from the sheet of paper?",504,450,500,305,500,GRE,Vhard
+296,"A 10 foot ladder leans against a vertical wall and forms a 60 degree angle with the floor. Assuming the ground
+below the ladder is perfectly horizontal, how far above the ground is the top of the ladder?",5ft,(5*1.732)ft,10ft,9ft,(5*1.732)ft,GRE,Vhard
+297,"The organizer of the university’s series of public debates commented that it is difficult to find a suitable
+adjudicator for debates on certain controversial matters, as there exist topics in regards to which no one is
+_________.
+
+",pellucid,disinterested,jocular,subjective,disinterested,GRE,Vhard
+298,"It was apparent to everyone present that upon receiving the medal, a decoration long past due, the superannuated
+veteran adopted a mood of exaggerated hilarity, almost as if the unexpected resolution of a lifetime of injustice
+came as a _________ surprise.
+
+",prodigal,plangent,risible,parsimonious,risible,GRE,Vhard
+299,"Despite their diminutive stature, horse jockeys are far from _________ bunch: many would all-too-happily allow
+minor umbrage to escalate to barroom brawl.
+
+
+",a stygian,a farcical,an effete,an evocative,an effete,GRE,Vhard
+300,"The apparent simplicity of a cup of coffee _________ the dizzying number of hours of toil required to produce it,
+from months of cultivation of the bean tree to painstaking refinement in highly sophisticated machinery.
+
+
+",redresses,confirms,belies,fosters,belies,GRE,Vhard
+301,"The representative’s violent ascension to prominence began with a __________ attack on the comparatively
+conciliatory leaders of his own party.
+
+",truculent,partisan,biased,imperious,truculent,GRE,Vhard
+302,"Even those accustomed to the austere beauty of mathematics may be daunted by the __________ with which
+Bourbaki conducts his proofs.
+
+",celerity,diligence,asperity,rigor,rigor,GRE,Vhard
+303,"Even from a distance, the man could see that the tornado had _____________ from the site all but the most
+basic elements of his childhood home; nothing but traces of the original foundations remained.
+
+",tethered,extirpated,effaced,hallowed,effaced,GRE,Vhard
+304,"Even from a distance, the man could see that the tornado had _____________ from the site all but the most
+basic elements of his childhood home; nothing but traces of the original foundations remained.
+
+",rout,forgery,fallacy,infirmity,rout,GRE,Vhard
+305,"The ___________ between parties is rapidly becoming insurmountable, as a lack of faith on both sides creates
+conditions where issues once considered beyond the pale of dispute are becoming subject to contention.
+
+",accord,rift,travesty,piety,rift,GRE,Vhard
+306,"__________ though the family now may be, they continue to carry themselves in public with an air befitting
+their aristocratic heritage.
+
+",Impecunious,idyllic,glamorous,bucolic,Impecunious,GRE,Vhard
+307,"Lie detector tests attempt to discern _________ by measuring physiological responses, including heart rate,
+blood pressure, and respiratory rate.
+
+",tenacity,precocity,mendacity,urbanity,mendacity,GRE,Vhard
+308,"The golden crown’s dazzling ____________ is tarnished only by its torrid and bloody history.
+",variance,refulgence,tumescence,evanescence,refulgence,GRE,Vhard
+309,"The judge’s keen eye for sussing out the pretension of the lawyers in her courtroom was surpassed only by the
+_________ wit with which she castigated them for it.
+
+",sedulous,mordant,obtuse ,assiduous,mordant,GRE,Vhard
+310,"The amount of self-abasement with which the inmate __________ the probation panel to be set free verged on
+the humiliating; nevertheless, the judges remained unmoved and he was ultimately sent back to his cell to serve
+another three years.
+
+",chided,snubbed,drummed,supplicated,supplicated,GRE,Vhard
+311,"Find the number of school students who received Dr APJ Abdul Kalam IGNite awards 2015 presented by President Pranab Mukharjee?
+",25,20,40,35,40,cur,easy
+312,"Which of the following currency is included into its elite reserve currency basket on 30 Nov 2015 by International Monetary Fund(IMF)?
+","China - 
+Yuan","Japan - Yen
+","
+French - Franc","
+Denmark – Danish Krone
+",China - Yuan,cur,easy
+313,"Chinese currency Yuan is also known as
+",Endaka,Guineen,Renminbi,Abbasi,Renminbi,cur,easy
+314,"Name the focus area of Mission innovation that was launched by world leaders on 30 Nov 2015 in Paris?
+",Clean energy,Natural Disasters,Saving the atolls,None of these,Clean energy,cur,easy
+315,"The first country in the world to give approval to use vaccine against dengue fever is 
+",France,Paris,Mexico,Russia,Mexico,cur,easy
+316,"Who was awarded 
+with an honorary lifetime membership of Marylebone Cricket Club(MCC) on 9 Dec 2015?"," Mahela Jayawardene
+","Lasith Malinga
+","Dinesh Chandimal
+","Angelo Mathews
+","Mahela Jayawardene
+",cur,easy
+317,Which country became the 10th member to ratify Articles of Agreement of Asian Infrastructure Investment Bank?,Laos,Luxembourg,Lebanon,Libya,Luxembourg,cur,easy
+318,"Union Cabinet approved 4000 crore rupees proposal for _____ in India.
+
+",Textile industry,"Automobile industry
+","Shipbuilding industry
+",Steel industry,"Shipbuilding industry
+",cur,easy
+319,"On 8 Dec 2015, Asian Economic Integration Report 2015 was released by _____
+","Asian Development Bank (ADB)
+","African Development Bank (AfDB)
+","Caribbean Development Bank (CDB)
+","Development Bank of Latin America (CAF)
+","Asian Development Bank (ADB)
+",cur,easy
+320,"Find the number of inland waterways proposed to be declared as the national waterways through amendments in the National Waterways Bill, 2015, was approved by the Union Cabinet.
+",100,206,106,96,106,cur,easy
+321,"The first European country to sign the MoU on establishment of Nalanda University is _____.
+",Russia,Portugal,Spain,Poland,Portugal,cur,easy
+322,"Uttar Pradesh Government launched mobile app called mSehat for _____.
+",Farmers,health workers,Engineers ,Doctors ,health workers,cur,easy
+323,"World Food Day is celebrated on ______.
+
+",16 October,13 October,10 October,12 October,16 October,cur,easy
+324,"Which government has announced New Integrated Licensing Policy 2015?
+",Maharashtra,Haryana,Delhi,Karnataka,Haryana,cur,easy
+325,"______ became the first person of Indian Origin (PIO) to be elected as the mayor of a major city in Germany.
+",S R Nathan,"
+Navanethem Pillay",Rohit Gupta,"
+Ashok-Alexander Sridharan","Ashok-Alexander Sridharan
+",cur,easy
+326,"The first Indian who won Silver Medal in Archery World Cup Final is ____.
+",Rajat Chauhan,Abhishek Verma,Sandeep Kumar,None of these,"Abhishek Verma
+",cur,easy
+327,"Who has launched its parent company called Alphabet Inc on 10 August 2015?
+",Google,Microsoft,Oracle ,Dell,Google,cur,easy
+328,World Bio-Fuel Day is on ____.,9 August 2015,10 August 2015,20 August 2015," None of these
+",10 August 2015,cur,easy
+329,"The second Tennis player to be recommended for Rajiv Gandhi Ratna is _____ 
+",Leander Paes,Mahesh Bhupathi,Sania Mirza,"Somdev Devvarman
+",Sania Mirza,cur,easy
+330,"On 12 August 2015, China and Pakistan signed 20 agreements worth _____ US dollars to implement CPEC.
+",1.2 billion,1.4 billion,2.5 billion,1.6 billion,1.6 billion,cur,easy
+331,"Which of following was not recommendation of Motilal Nehru Committee (1928)
+","Establishment of Federal Government 
+","Elected Govt. in Provinces 
+","Establishment of Dyarchy system
+","Provision of Civil Liberties
+","Establishment of Dyarchy system
+",cur,easy
+332,"In which of following act, amount of one lakh rupees was earmarked for education?
+","
+Chartered Act 1833","Chartered Act 1813
+","Chartered Act 1856
+","
+Chartered Act 1793","Chartered Act 1813
+",cur,easy
+333,"Which of following statement is incorrect about the 1857 Revolt?
+","
+Kunwar Singh revolted from Lucknow","This Revolt could not attract Masses
+","Greased Cartridge was immediate cause of revolt
+","Bahadur Shah Zafar was proclaimed as emperor of India in the initial stage of revolt
+","Kunwar Singh revolted from Lucknow
+",cur,easy
+334,"Who executed Sikh Guru Arjun Dev for supporting Khusrau?
+",Shahjahan,Jahangir,Akbar,Babar,Jahangir,cur,easy
+335,"Which of following is not correct about the religious policies of Aurangzeb?
+","
+Aurangzeb reimposed Jizia  tax","He promoted the festivals like Diwali and Navroz
+","He abolished Kalimas
+","He also abolished music
+","He promoted the festivals like Diwali and Navroz
+",cur,easy
+336," Which of following names were related to the Nirguna-Bhakti?
+",Adi Shankara,Kabir,Guru Nanak,"All of the above
+"," All of the above
+",cur,easy
+337,"Which one of following regions does the Bushmen tribe belong to?
+",Kalahari Desert,Siberia,Arabian Desert,"Canadian Tundra
+","Kalahari Desert
+",cur,easy
+338,")  Consider the following statements:
+I)    Lowermost layer of atmosphere is called Troposphere
+II)   Height of Troposphere is more at pole and lesser near the equator 
+III)  Height of Troposphere is more at equator and lesser near the pole
+Which of above statement is / are true about the Troposphere?
+
+",I only,I and III,All of the above,1and II ,I and III,cur,easy
+339,"Which of following statement is correct about the hot and cold currents?
+","Area where the hot and cold currents meet is very productive site
+","Area where the hot and cold current meet is very unproductive.
+","All warm current emerges from the poles
+","All of the above
+","Area where the hot and cold currents meet is very productive site
+",cur,easy
+340,"Which of following statement is true about the Ecotone?
+","It is meeting place of two different eco systems
+","It is meeting place of two same eco systems
+","Density of species is very low here
+","All of  the above
+","It is meeting place of two different eco systems
+",cur,easy
+341,"Consider following statement about the estuary
+I)    Estuary is place where the river fresh waster meets with ocean water
+II)    This area is highly productive
+III)    This area is highly unproductive
+IV)    All of the above
+  Which of above the statements is/are true?
+
+",I) only,II) only,I) and II),III),I) and II),cur,easy
+342," Which of following statement is incorrect about the Biosphere?
+","
+Biosphere is combination of lithosphere, hydrosphere and Atmosphere","
+Biosphere is missing at extreme of north and south pole 
+
+","Organisms are uniformly present in Biosphere 
+","All of the above
+","Organisms are uniformly present in Biosphere 
+",cur,easy
+343,"The Preamble of the Constitution of India was first amended by
+","Seventh Amendment Act
+","Eleventh Amendment Act
+","Forty Second Amendment  Act
+","Forty Fourth Amendment Act
+
+","Forty Second Amendment  Act
+",cur,easy
+344,"The President of India can be removed by the process of impeachment on the grounds of
+","
+Violation of the Constitution","Proved in-capacity
+","On Corruption charges
+","None of the Above
+","Violation of the Constitution
+",cur,easy
+345,"Which of the Ministries deals with the Table of Precedence
+","Ministry of Personnel
+","Ministry of Home
+","Prime Minister’s Office
+","None of the Above
+","Ministry of Home
+
+",cur,easy
+346,"Handbook of Statistics 2015 was released by ____.
+",UNDAF,UNIDO,UNDP,UNCTAD,UNCTAD,cur,med
+347,"Union Government and NTC signed MoU for establishing a Technology Centre at _____.
+",Jaipur,Kanpur,Gujarat,Maharashtra,Kanpur,cur,med
+348,"The second World Internet Conference will be held from 16 to 18 Dec 2015 in _____.
+","Cairo, Egypt","Paris, France","Berlin, Germany
+","Wuzhen, China
+","Wuzhen, China
+",cur,med
+349,"Human Rights Day was observed across the world on ____.
+",10 December,8 December,10 November,11 December,10 December,cur,med
+350,"Three-day International Tourism exhibition were held in ____ from 11th to 13th December 2015
+","Bangalore, Karnataka
+","Cochin, Kerala","Madurai, Tamil Nadu
+","Hyderabad, Andhra Pradesh
+
+","Madurai, Tamil Nadu
+",cur,med
+351,"International Day for the Eradication of Poverty is observed on ______
+",16 October,12 October,17 October,10 October ,17 October,cur,med
+352,"World Statistics Day is on _____
+",20 October,15 October,17 October,12 October ,20 October,cur,med
+353,"Name the city where Global Maternal Newborn Health Conference 2015 was held.
+",Malaybalay,Mexico,Manduluyong,Mandaue,Mexico,cur,med
+354,"World Polio Day was observed on ____.
+",25 September,23 October,24 October,25 October,24 October,cur,med
+355,"Which government has signed two memorandums with Japan for development of infrastructure?
+",Karnataka,Andhra Pradesh,"Madhya Pradesh
+",Maharashtra,"Andhra Pradesh
+",cur,med
+356,"India's first AC double-decker Shatabdi train will soon run between ____.
+",Mumbai - Goa,Delhi - Mumbai,Agra - Mumbai,Goa - Kerala,Mumbai - Goa,cur,med
+357,"Election Commissioner of India is _____.
+",Nasim Zaidi,V. S. Sampath,"Harishankar Brahma
+","Om Prakash Rawat
+",Nasim Zaidi,cur,med
+358,"2015 US - India Cyber Dialogue was held in _____.
+",Newyork,"Washington, DC",Los Angeles,Chicago,"Washington, DC
+",cur,med
+359,"The first Indian shuttler to win silver medal in World Badminton Championship is _____.
+",Leander Paes,"
+Mahesh Bhupathi ",Saina Nehwal,"Rohan Bopanna
+",Saina Nehwal,cur,med
+360,"Consider the following statement about the Indus Valley Civilization?
+I.  Barley has been found from one of Indus Valley Civilization sites
+II. People of Indus Valley Civilization used to put on the bangles.
+III. People of Indus Valley Civilization used to trade with other countries
+Which of above statement is/ are true about the Indus Valley Civilization?
+
+",I Only,II Only,"I , II and III",III Only,"I , II and III",cur,med
+361,"Which of following statement is incorrect about the Indus Valley Civilization?
+","People of Indus Valley Civilization used to practice agriculture 
+","No site of this civilization has been found in Haryana region
+","Oxen, Buffaloes and goats were domesticated animals in Indus Valley Civilization
+","All of the above
+","No site of this civilization has been found in Haryana region
+",cur,med
+362,"Which one was the biggest industrial site of Harappa Civilization?
+",Chahnudaro,Ropar,Lothal,Dholavira,Chahnudaro,cur,med
+363,"Which of following statement is correct about the Vernacular Press Act?
+","Lord Canning was behind the creation of this act
+","It was created by Lytton and repealed by the Lord Ripon
+","Vernacular Press Act was passed in year 1872
+","All of the above
+","It was created by Lytton and repealed by the Lord Ripon
+",cur,med
+364,"Which of the following is not true of the Cabinet Mission plan ? 
+","It rejected the creation of a separate State of Pakistan
+","It recognized India’s right to secede from the Commonwealth
+","All members of the Indian Cabinet are to be Indians
+","It gave scope to the communal representation
+","
+It rejected the creation of a separate State of Pakistan
+
+",cur,med
+365,"The Nehru-Liaqat Pact between India and Pakistan was signed  to solve the problem of:
+",Minorities ,"The accession of the Princely States
+","
+The Border Issues
+
+","Foreign Relations 
+",Minorities ,cur,med
+366,"Who constructed Humayun’s tomb in Delhi?
+",Salima Begam,Khurram,Amir khusrau,"None of the above
+",Salima Begam,cur,med
+367,"Consider the following statements about  Ibn-Batuta 
+I)   He  was traveler from Moracco 
+II)  He visited the court of  Tughlaq
+III) He wrote Kitab-i-Rehala
+which of above statement is/ are true?
+
+",I Only,II only,"I, II and III",II and III,"I, II and III",cur,med
+368,"Feroz Shah Tughlaq established  Diwan –i- Khairat, it was 
+","It was employment bureau for provding employent to Muslim Youth . It also used to conduct free of cost marriage
+","It was assembly of nobles to discuss the religious affairs
+","It was Spy  department
+","None of the above
+","It was employment bureau for provding employent to Muslim Youth . It also used to conduct free of cost marriage
+",cur,med
+369,"Who was the Governor General of India during the Sepoy Mutiny?
+",Lord Canning,Lord Dalhousie,Lord Hardings,Lord Lytton,Lord Canning,cur,med
+370,"Who among the following Governor Generals created the Covenanted Civil Service of India which later came to be known as the Indian Civil Service?
+","Warren Hastings        
+",Wellesley,Cornwallis,"William Bentinck
+",Cornwallis,cur,med
+371,"Consider the following statements:
+1) Warren Hastings was the first Governor General who established a regular police force in India on the British Pattern.
+2) A Supreme Court was established at Calcutta by the Regulating Act, 1773.
+3) The Indian Penal Code came into effect in the year 1860.
+Which of the statements given above are correct?
+
+",Only 1 and 2            ,Only 2 and 3,Only 1 and 3            ,"All of the above
+","Only 1 and 3            
+",cur,med
+372,"Israel has common border with
+","Lebanon, Syria, Jordon and Egypt
+","Lebanon, Syria, Turkey and Jordan
+","Cyprus, Turkey, Jordon and Egypt
+","Turkey, Syria, Iraq and Yemen
+","Lebanon, Syria, Jordon and Egypt
+",cur,med
+373,"Identify the place which is surrounded by Seshchalam hills at  its north, Melagiris range at its south, Baba Budan hills at west and Nagari hills at its east
+",Kaveri falls                        ,"
+Hogennakkal falls","Banglore Plateau
+",Nandyal Valley,"Banglore Plateau
+",cur,med
+374,"Which of the following set of rivers which flow to west coast of Karnataka?
+","Kalindi, Redti, Shravati, Sita
+","Chanora, Manavi, Kalindi, Redti
+","Netravati, Kumarraadhar, Pavasuini, Kabana
+","Kalindi, Sita, Pulantod , Gayatri
+","Kalindi, Redti, Shravati, Sita
+",cur,med
+375,"Which of the following do not belong to eastern coast of India?
+","
+Point Calimere                    ",False Divi Point    ,Palmyra Point    ,Karwar Way,Karwar Way,cur,med
+376, What is the carbon credit?,"It is the difference between the carbon emission allowed and actually emitted carbon 
+","
+It is the loan amount by IMF for reducing pollution","It is loan given to poor people for buying Modern Stoves 
+","All of the above
+","It is the difference between the carbon emission allowed and actually emitted carbon 
+",cur,med
+377,"
+What is the meaning of coral bleaching?","Paling of coral color or decline in zooxanthellae due to climate change 
+","Impacts of excessive sea  trade on fishing industry
+",Both a and b,"None of the above
+","Paling of coral color or decline in zooxanthellae due to climate change 
+",cur,med
+378,"Relative contributions of CO2, CH4, CFCs and N2O towards global warming  are:
+","50 %, 30 %, 10 % , and  10 % respectively 
+","60%, 20%, 14%,  and 6% respectively 
+","40 %, 30%, 20% and 10% respectively 
+","None of the above
+","60%, 20%, 14%,  and 6% respectively 
+",cur,med
+379,"According to Suresh Tendulkar Report, What percentage of population was under the poverty Line in 2004-05?
+",36 %,37.2 %,40.2%,33 %,37.2 %,cur,med
+380,"Which of following statement is true about the Primary deficit?
+","It is difference between Revenue receipts and Revenue Expenditure
+","It is difference between capital receipts and Interest Payment    
+","It is difference between the Fiscal Deficit and Interest Payment
+","It is addition of Fiscal Deficit and Interest Payment
+","It is difference between the Fiscal Deficit and Interest Payment
+",cur,med
+381,"Who introduced Zamindari system in India? 
+",Lord Carnwallis ,Lord Wlliam Bentinck,Lord Dalhousie ,Lord Canning,Lord Carnwallis ,cur,med
+382,"Who operates the monetary policy in India?
+",Ministry of Finance,"Reserve Bank of India (RBI)
+","Security and Exchange Board of India
+",All of above,"Reserve Bank of India (RBI)
+",cur,med
+383,"Global Illicit Financial Flows Report 2015 was released by ____
+","
+International Labour Organization (ILO)","International Monetary Fund (IMF)
+","International Organization for Migration (IOM)
+",World Bank,"b) International Monetary Fund (IMF)
+",cur,hard
+384,"Which country introduced resolution 2250 (2015) on youth, peace and security that was adopted by UN security on 9 Dec 2015?
+",Berlin,Japan,Jordan,Germany,Jordan,cur,hard
+385,"Which country was identified as world’s top exporter of illicit money by the Global Financial Integrity?
+",Japan,Korea,China,Russia,China,cur,hard
+386,"Railway Minister flagged off first double decker Goa – Mumbai train on ___ .
+",5 December 2015,6 December 2015,"
+10 December 2015","
+11 December 2015",6 December 2015,cur,hard
+387,"Name the two persons who won 2016 Queen's Young Leaders Award
+","
+ Kartik Sawhney and Neha Swain","Sendhil Mullainathan and Mark Zuckerberg
+","Alok Kshirsagar and Chhavi Rajawat
+","Deepinder Hooda and Jyotiradita Scindia
+","Kartik Sawhney and Neha Swain
+",cur,hard
+388,"On 22 Oct 2015, World Bank has announced that _____ became the World's largest remittance recipient.
+",China,Britain,England,India,India,cur,hard
+389,"Which of the following two countries began Joint Naval Exercise SLINEX 2015?
+",India and Syria,Poland and Serbia,"India and Srilanka
+","
+India and Sudan",India and Srilanka,cur,hard
+390,"The first women President of Nepal is ____.
+",Judith Weir,Bidhya Devi Bhandari,Jeanine Tesori,"Audra McDonald
+","Bidhya Devi Bhandari
+",cur,hard
+391,"Who has won Silver in men's club throw F51 event of IPC Altheletics World Championships 2015?
+",Zeljko Dimitrijevic,Amit Kumar Saroha,Milos Mitic,"
+Devendra Jhajharia","Amit Kumar Saroha
+",cur,hard
+392,"Name the two public sector banks of which private sector professionals were appointed as head.
+","Bank of Baroda and Canara Bank
+","Allahabad Bank and State Bank of India
+","Vijaya Bank and Canara Bank
+","Bank of India and UCO Bank
+","
+Bank of India and UCO Bank
+
+",cur,hard
+393,Name the Cricket player who received Arjuna Award 2015.,Yusuf Pathan,Murali Vijay,Virat Kohli,Rohit Sharma,Rohit Sharma,cur,hard
+394,"__________ became India's first woman to play in English league football.
+",Anjana Saikia,Aditi Chauhan,Upamati Devi,Manisha Panna,Aditi Chauhan,cur,hard
+395,"The sixth president of IAAF is _____. 
+",Primo Nebiolo,Lamine Diack,"Lord Sebastian Coe
+",Adriaan Paulen,Lord Sebastian Coe,cur,hard
+396,"World Humanitarian Day was observed on ______.
+",10 August 2015,20 August 2015,9 August 2015,19 August 2015,19 August 2015,cur,hard
+397,"
+Which was The first to receive funds from UN for Solar Home Systems is ____.
+",Maharashtra,Assam,Bangladesh,West Bengal,Bangladesh,cur,hard
+398,"Which of following statement is correct about the First Buddhist Council?
+","First Buddhist Council of held in Pataliputra 
+","First Buddhist Council was held in Rajgriha and patronized  by Ajatasatru 
+","First Buddhist Council was held in Kashmir and patronized  by Kanishka 
+","First Buddhist Council was held in Kashmir and patronized  by Ajatasatru
+","First Buddhist Council was held in Rajgriha and patronized  by Ajatasatru 
+",cur,hard
+399,"Which of following statement is correct about the spread of Jainism?
+","Both Men and women were admitted to spread Jainism 
+","Only Men were allowed to spread the Jain religion
+","Only Women were allowed to spread the Jain religion
+","It was successful  in attracting the huge masses
+","Both Men and women were admitted to spread Jainism 
+",cur,hard
+400,"Consider the statements about the Buddhism
+I. Earlier women were not allowed in spread of Buddhism but later on they were allowed
+II.People were admitted to Buddhism without any caste consideration 
+III.Buddhism was liberal and democratic
+ Which of above statement is/are true about the Buddhism?
+
+
+",I Only,II only,I and II ,"I, II and III","I, II and III",cur,hard
+401,"Main reason behind the Surat Split was:
+","Differences between the Moderate and extremist over the spreading  the movement of anti- Bengal Partition to rest of India
+","Moderate did not want to confine the movement to Bengal
+","Extremist wanted to confine anti-partition movement to Bengal
+",None of the above,"Differences between the Moderate and extremist over the spreading  the movement of anti- Bengal Partition to rest of India
+",cur,hard
+402,"In which year Dacca Anushilan Samiti was founded?
+",1905,1907,1902,1912,1905,cur,hard
+403,"Which of following statement is/are correct about the Home Rule Movement
+","
+Idea of Home Rule was suggested by the Anne Besant in Bombay session in 1915.","During this movement, Tilak gave statement that ‘ Swaraj is my Birthright’
+","Sindhi Community participated for first time in freedom struggle during the Home Rule movement
+
+",All  of the above,All  of the above,cur,hard
+404,"What was the meaning of NAGARA in Chola Administration
+","Common settlement for  people from all castes
+","Special Settlement of Brahmins
+","Settlement of Merchants
+",None of the above,"Settlement of Merchants
+",cur,hard
+405,"Which one of the following pairs is not correctly matched?
+","
+Pitt’s India Act : Warren Hastings","Doctorine of Lapse       : Dalhousie
+","Vernacular Press Act     : Curzon
+","Ilbert Bill                       : Ripon
+","Vernacular Press Act     : Curzon
+",cur,hard
+406,"The demand for the Tebhaga Peasant Movement in Bengal was for
+","the reduction of the share of the landlords from one-half of the crop to one-third
+","the grant of ownership of land to peasants as they were the actual cultivators of the land
+","the uprooting of Zamindari System and the end of serfdom
+","writing off all peasant debts
+","the reduction of the share of the landlords from one-half of the crop to one-third
+",cur,hard
+407,"With reference to Indian History, the Members of the Constituent Assembly from the provinces were
+","directly elected by the people of those Provinces
+","Nominated by the Indian National Congress and the Muslim League
+","elected by the Provincial Legislative Assemblies
+","selected by the Government for their expertise in constitutional matters
+","elected by the Provincial Legislative Assemblies
+",cur,hard
+408,"Consider the following statements:
+1) Robert Clive was the first Governor-General of Bengal.
+2) William Bentinck was the first Governor-General of India.
+Which of the statements given above is/are correct?
+
+",Only 1             ,Only 2 ,Both ,none,only 2,cur,hard
+409,"Which of following state is/ are completely lie in Himalayas?
+",Himachal Pradesh,Sikkim,"Himachal Pradesh , Jammu and Kashmir and Uttarakhand
+","Himachal Pradesh, Jammu and Kashmir , Sikkim and Arunachal Pradesh
+","
+Himachal Pradesh, Jammu and Kashmir , Sikkim and Arunachal Pradesh",cur,hard
+410,"Water Body that separates India and the Srilanka is 
+",Palk Strait ,8 degree channel,Great channel,10 degree channel,Palk Strait ,cur,hard
+411,"Which of following glacier is not located in Karakoram Range?
+",Siachen,Hipsar,Baltoro,Sonapani,Sonapani,cur,hard
+412,"Three cities in which one from Punjab and others from Himachal Pradesh are in between two rivers which are tributaries of Indus River.
+","Ravi & Beas.                    
+",Beas & Satluj,Ravi & Satluj,Satluj & Ghaghara,Beas & Satluj,cur,hard
+413,"Match the following list 1 with list 2 and choose the correct answer from the codes given below
+
+List 1                                List 2
+A.    Sonai Rupai      I. WestBengal
+B.    Jaldapara        II.ArunachalPradesh
+C.    Morleen           III. Manipur
+D.    Kaibul Lamjo  IV.Mizoram
+",II         I        IV       III ,III        I        II       IV,I         II        IV      III,III       IV        I        II,II         I        IV       III ,cur,hard
+414," Moving towards south from the north, which of the following is the correct sequence of regions one came across
+
+","Bist doab, bari doab, malwa plains, bhiwani sagar
+","bari doab, bhiwani sagar, malwa plains, Bist doab
+","bari doab, bist doab, malwa plains , bhiwani bagar
+","
+bhiwani bagar, malwa plains, bist doab, bari doab","bari doab, bist doab, malwa plains , bhiwani bagar
+",cur,hard
+415,"Read the following sentences 
+carefully
+I.    The range is spread over two states which lies on tropic of cancer.
+II.    Sanjay Gandhi wildlife sanctuary is situated near the range
+Identify the highest peak of the range:
+
+","Deogarh                    
+",Bahmangarh,Amarkantak,Tulasi,Deogarh                    ,cur,hard
+416,"Which of following can be used for controlling Gaseous Pollutant?
+",Arrestor,Incineration ,Absorption ,None of above,Absorption ,cur,hard
+417,"What does the high Biological Oxygen Demand (BOD) indicates?
+","High level of Microbial Pollution 
+","Low level of Microbial Pollution 
+","Absence of Microbial Pollution
+",Water is fully pure,"High level of Microbial Pollution 
+",cur,hard
+418,"What percent of area in the plain should be under forest?
+",21 %,25%,17%,33%,33%,cur,hard
+419,"Biodiversity Hotspot are characterized on the basis of:
+","
+ Endemic flowering plant and threat perception ","Endemic flowering plant
+","Species of flowering plants
+",none of the above,"
+ Endemic flowering plant and threat perception ",cur,hard
+420,"Consider the following Statements
+
+A) State Legislature has the power to reject the changes brought  in its area, name and boundaries by the Union Parliament of India.
+B) Parliament of India is bound to follow the suggestions of the State Legislature in the matters related to the state boundaries.
+Which of the following is/are correct?
+",Only 1 is correct,Only 2 is correct,Both are Correct,Both are incorrect,Both are incorrect,cur,hard
+421,"The Election Commission coordinates with which Ministry for conducting the elections?
+",Home Ministry,"Ministry of Law and Justice
+",Ministry of  Finance,"Ministry of Personnel
+","Ministry of Law and Justice
+",cur,hard
+422,"The Ministry of Personnel is under the charge of the following
+",Home Minister,Finance Minister,Prime Minister,Defence Minister,Prime Minister,cur,hard
+423,"International Anti-Corruption Day was observed on _____
+",5 December 2015,6 December 2015,10 December 2015,9 December 2015,9 December 2015,cur,very hard
+424,"Which government has announced vehicle rationing scheme to curb air pollution?
+",Kerala,Karanataka,Maharashtra,Delhi,Delhi,cur,very hard
+425,"Which bank has announced to mobilize 5 billion US dollars for climate action by 2020 on 8 Dec 2015?
+",Axis Bank,Yes Bank,ICICI Bank,HDFC Bank,Yes Bank,cur,very hard
+426,"_____ became the first Indian company to receive DGCI’s approval for hepatitis C drug.
+",Hetero Drugs,"Pharmax International
+",Arvee International,Smart Avionics,Hetero Drugs,cur,very hard
+427,"Which country has announced that it will permanently station a military unit in the Arctic by 2018?
+",Germany,France ,Russia,Brazil,Russia,cur,very hard
+428,"Name the two countries who has signed Strategic Inverstment Agreements for building three nuclear plants.
+",Brazil and Germany,China and India,Russia and China,Britain and China,Britain and China,cur,very hard
+429,"First World Indigenous Games began in Brazil on ____
+",22 October 2015,23 October 2015,25 October 2015,15 September 2015,23 October 2015,cur,very hard
+430,"Who has been awarded with 2015 Confucius Peace Prize?
+",Robert Mugabe,Juan Manuel Santos,Sergio Mattarella,Uhuru Kenyatta,Robert Mugabe,cur,very hard
+431,"Name the two countries who has signed an agreement to set up CESDT in Myanmar.
+",India and China,India and Germany,India and Russia,India and Myanmar,India and Myanmar,cur,very hard
+432,"
+48th ASEAN Foreign Ministers'’ meet was held in ______.
+","Kuala Lumpur, Malaysia
+","Tokyo, Japan","Berlin, Germany",none,"Kuala Lumpur, Malaysia
+",cur,very hard
+433,"61st Commonwealth Parliamentary Conference to be held in ______.
+", Karnataka,Hyderabad,Islamabad,Mumbai,Islamabad,cur,very hard
+434,"The first Indian city to join World Tourism Cities Federation Council is _____.
+",Bangalore,Kochi,Hyderabad,New Delhi,Kochi,cur,very hard
+435,"International Day of the World's Indigenous Peoples observed on _____.
+",10 August 2015,5 August 2015,9 August 2015,15 August 2015,9 August 2015,cur,very hard
+436,"_____ became the first Airport to run on solar power.
+","Cochin International Airport
+","Indira Gandhi International Airport
+","Goa International Airport
+","Kempegowda International Airport
+","Cochin International Airport
+",cur,very hard
+437,"____ appointed as CMD of Air India Limited.
+",Rohit Nandan,Ashwani Lohani,Arvind Jadhav,none,Ashwani Lohani,cur,very hard
+438,"Which inscription of Ashoka gives an account of Kalinga War ? 
+","Jaugada Rock Inscription 
+","Dhauli Rock Inscription 
+","
+Rummindei Pillar Inscription ","Shahbajgarhi Rock Edict 
+","
+Shahbajgarhi Rock Edict ",cur,very hard
+439,"To whom Asoka donated in the region of Barabar Hill?
+",Buddhists,Ajivikas,Jains,None of the above,Ajivikas,cur,very hard
+440,"Who was the priest of the Bharatas in the battle of Ten Kings in Vedic Age?
+",Visvamitra,Vasishtha,Atri,All of the above,Vasishtha,cur,very hard
+441,"Which of following statement is/are correct about the Hsuan Tsang ?
+","He was Chinese Pilgrim
+","He visited during the reign of Harsha
+","He came to study in Buddhist  Nalanda University 
+",All of the above,All of the above,cur,very hard
+442,"Which of following statement is / are correct about the Non-Cooperation Movement?
+","Rowlatt Act , Jallianwala Bagh massacre and other forms of oppression were main reasons behind this movement
+","It attracted the masses
+","Chaura-Chauri incident was responsible for withdrawal of this movement. 
+",All of the above,All of the above,cur,very hard
+443,"What is the meaning of Kalayanmandapas with reference to the Vijayanagar Art and Culture?
+","It was Marriage hall within the temple complex
+",It was name of God ,"It was residential palace for nobles 
+",none of the above,"It was Marriage hall within the temple complex
+",cur,very hard
+444,"  Which of following statement is  incorrect about the “Tuzak-i-Babari “or Babarnamah?
+","It  was written by the Babar himself
+","It was written in Turkish lanugage
+","
+It was written by Sheikh Mirza",It was memoir,"it was written by Sheikh Mirza
+",cur,very hard
+445,"Which of following statement is correct about the religious policies of Akbar?
+","Akbar banned the forced conversion
+","Akbar  abolished pilgrim tax on Hindu
+","Jazia tax was abolished
+",All of the above,All of the above,cur,very hard
+446,"Which of the following is/are the principal features(s) of the Government of India Act, 1919?
+1) Introduction of diarchy in the executive government of the provinces
+2) Introduction of separate electorates for Muslims
+3) Devolution of legislative authority by the centre to the provinces
+Select the correct answer using the codes given below:
+
+",Only 1                   ,only 2 and 3,Only 1 and 3            ,all of the above,"Only 1 and 3          
+",cur,very hard
+447,"Annie Besant was
+1) responsible for starting the Home Rule Movement
+2) the founder of the Theosophical Society
+3) once the President of the Indian National Congress
+Select the correct statement using the codes given below.
+
+",only 1,Only 2 and 3                      ,Only 1 and 3            ,all,Only 1 and 3,cur,very hard
+448,"Which one of following rivers does not pass through the Himachal Pradesh?
+",Bias,Ravi,Yamuna,Shyonk,Shyonk,cur,very hard
+449,"Koyana River is tributary of :
+",Krishna ,Narmada,Cauvery,Sabarmati ,Krishna ,cur,very hard
+450,"In which of following state/ states mangrove forest is found?
+",Odisha,West Bengal,"Odisha, West Bengal and Tamilnadu
+",Tamil nadu,"Odisha, West Bengal and Tamilnadu
+",cur,very hard
+451,"Identify the protected area rich In biodiversity situated near the Kolleru lake & in between two rivers than drains in bay of Bengal
+",Guntur                        ,Gudivada    ,Elluru,Bhimavaram,Gudivada    ,cur,very hard
+452,"Tungrabhadra and Krishna river merge near which mountain range
+",Nallamalai hills,Erramalla hills,Velikonda hills,Ralkonda Hills,Erramalla hills,cur,very hard
+453,"The important site of Tiger Reserve and protected area “Bor” is situated between which two rivers
+",Purna & Wardha,Eardha & Wunna,Wardha & Andhari,Purna & Bembla,Eardha & Wunna,cur,very hard
+454,"The Constitution of India does not guarantee the Right to 
+",Life and Liberty,Property,Equality,Education,Property,cur,very hard
+455,"The provisions related to the High Court of the newly created State are mentioned in 
+","Constitution of India
+","The Respective State Act
+","The Report Submitted to the Parliament
+",None of the Above,"The Respective State Act
+",cur,very hard
+456,"The Governor of the state can remove which of the following
+","Chief Justice of the High Court
+","The Chairperson of the State Public Service Commission
+","The Chairperson of the State Finance Commission
+",None of the Above,None of the Above,cur,very hard
+457,"Which of the following is/are comes under original jurisdiction of High Court
+","Disputes relating to the election of members of Parliament and State legislature
+","The disputes between the two or more States
+",both,none,"
+Disputes relating to the election of members of Parliament and State legislature",cur,very hard
+458,"Our first five year plan primary focused on
+",Agricultural Sector,Manufacturing Sector,"Defense up gradation 
+",Service sector,Agricultural Sector,cur,very hard
+459,"
+Which of following statement is true about charged expenditure?","Expenditure which requires voting of parliament 
+","Expenditure which does not require voting of parliament 
+","Expenditure which is incurred on productive activities 
+","
+Expenditure which is incurred on social welfare schemes","Expenditure which does not require voting of parliament 
+",cur,very hard
+460,"Which sector constitutes the maximum share in GDP of India
+",Primary Sector,Secondary Sector,Tertiary Sector,none,Tertiary Sector,cur,very hard
+461,"Base Effect remains in news, which of following statement is true about Base Effect:
+","It is Change in numbers of items for which price quotations are taken
+","It measures Impact of fuel items on inflation 
+","Impact of the rise in price level in the previous year over the rise in price level in the current year
+","Problem due to miscalculation
+","Impact of the rise in price level in the previous year over the rise in price level in the current year
+",cur,very hard
+462,"One year ago Jaya was four times as old as her daughter Nikitha.  Six years hence, Mrs.Jaya's 
+age will exceed her daughter's age by 9 years. The ratio of the present ages of Jaya and her daughter is :",9:2,11:3,12:5,13:4,13:4,CAT,Easy
+463,"Five years ago, the total
+ of the ages of a father and his son was 40 years. The ratio of their present ages is 4 : 1. What is the present age of the father ?",30,25,20,None,None,CAT,Easy
+464,"A father is twice as old as his son.
+ 20 years ago the age of the father was 12 times the age of the son. The present age of the father is :",44,32,22,45,44,CAT,Easy
+465,Ajay got married 9 years ago . Today his age is 1 3 time of his age atthe time of his marriage . Find his present age.,30,28,36,29,36,CAT,Easy
+466,"The sum ages of kartik and his father is 78 years . 6 years hence ,father’s age will be twice of kartik’s age . Find present age of father. ",60,58,46,54,60,CAT,Easy
+467,"Two pipes P and Q can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are
+ opened. The cistern will be filled in just half an hour, if the Q is turned off after:",9,8,6,5,9,CAT,Easy
+468,"Pipes P and Q can fill a tank in 5 and 6 hours respectively. Pipe R can empty it in 12 hours. If all the three pipes are opened together, then the
+tank will be filled in:
+",4   5/13,3  5/13,1  9/17,3   9/17,1  9/17  ,CAT,Easy
+469,"A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. 
+The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",11,15,4,18,4,CAT,Easy
+470,"Three pipes P, Q and R can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. P, Q and R discharge chemical solutions M,L and N respectively. What is the proportion of the solution N in the liquid in the tank after 3 minutes?",2/13,3/5,6/11,7/15,6/11,CAT,Easy
+471,"A person earns 15% on investment but loses 10% on another investment. If the ratio of the two investments be 3:5, what is the gain or loss on the two investments taken together in terms of percentage?
+
+",0.65%,0.55%,0.63%,0.35%,0.55%,CAT,Easy
+472,"A person, by selling an article at three-fourths of the list price incurs a loss of 20%. Find the profit percentage if he sells at the list price?",7.65%,6.66%,5.45%,6.87%,6.66%,CAT,Easy
+473,"An uneducated retailer marks all his goods at 50% above the cost price and thinking that he will still make 25% profit, offers a discount of 25% on the marked price. What is his actual profit on the sales?",12%,14%,10.45%,12.5%,12.5%,CAT,Easy
+474,"30% loss on cost price in what percent loss on selling price?
+
+",42.85%,40%,50.45%,52.5%,42.85%,CAT,Easy
+475,"Let M be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in M is:",4,2,7,1,4,CAT,Easy
+476,"The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:",78,56,109,111,111,CAT,Easy
+477,Find the remainder when 231 is divided by 5.,3,1,4,2,3,CAT,Easy
+478,"The LCM of two 
+number is 4800 and their HCF is 160. If one number is 480, then the second number is",1300,1400,1600,1800,1600,CAT,Easy
+479,"If each of the three non zero numbers L , M , and N is divisible by 3, then LMN must be divisible by which one of the following the numbers?
+",81,27,36,121,36,CAT,Easy
+480,"P and Q are playing mathematical puzzles. P asks Q ""which whole numbers, greater than one, can divide all the nine three digit numbers 111,222,333,444,555,666, 777,888 and 999?"" Q immediately gave the desired answer. It was
+","3,9,37","3,37,119","8,37,111","3,37,111","3,37,111",CAT,Easy
+481,"2. A quadratic function f(x) attains a maximum of 3 at x = 1. The value of the function at x = 0 is 1. What is the value of f(x) at x = 10? 
+",–119,-159,-110,-180,-110,CAT,Easy
+482,"3. Two circles with centres P and Q cut each other at two distinct points A and B. The circles have the same radii and neither P nor Q falls within the intersection of the circles. What is the smallest range that includes all possible values of the angle AQP in degrees?
+","Between 0 and 90 
+",Between 0 and 30 ,Between 0 and 60 ,Between 0 and 75,Between 0 and 60,CAT,Easy
+483,"The astrophysicist argues that our books and films about interstellar space travel are a form of mass _________,
+and that only a miracle on a scale heretofore unseen could allow a human being to voyage to even the closest
+star in another solar system.
+
+",innovation,delusion,dementia ,catastrophe,delusion,CAT,Easy
+484,"On an aptitude test in 1986, an argument posited that the possibility of conducting banking transactions from home
+was as likely as flying cars, an argument that today sounds ___________.
+
+",prescient,paradoxical,preposterous,pithy,preposterous,CAT,Easy
+485,"Napoleon is of course most famous for his military triumphs, but his innovative code of law had a subtler but more
+_____ impact, as its principles strongly influenced legal codes well into the 20th century.
+
+",renowned,enduring,fleeting,insidious,enduring,CAT,Easy
+486,"Many ___________ people feared for the life of Ronald Reagan because since 1840, every president elected in a
+year ending in zero had died in office.
+
+",knowledgeable,mathematical,superstitious,addled,superstitious,CAT,Easy
+487,"Every generation is accused of slacking by the preceding ones, before in turn calling their own progeny
+lackadaisical; such is the _________ of life.
+
+",irony,circle,comedy,amusing,circle,CAT,Easy
+488," Each sentence has pairs of words/phrases that are
+italicised and highlighted. From the italicised and highlighted
+word(s)/phrase(s), select the most appropriate word(s)/phrase(s) to
+form correct sentences. Then, from the options given, choose the
+best one.(i) While evacuating people from the flood ravaged areas
+precedence (A) / precedent (B) was given to women and children.
+(ii) The best way to reach the summit is by trekking up the hill,
+alternately (A) / alternatively (B) you can go on horse back
+(iii) His impeccable manners perfectly complimented (A) /
+complemented (B) his polished looks and fashionable attire.
+(iv) There has been a noticeable (A) / notable (B) improvement in
+Tarun's academic performance lately.
+(v) You must be discreet (A) / discrete (B) about your plans
+
+",AAABB,BBABB,"ABBAB 
+",ABAAB,,CAT,Easy
+489,"Jason deposits money at a bank on a Tuesday and returns to the bank 100 days later to withdraw the money. On
+what day of the week did Jason withdraw the money from the bank?
+
+",Monday,Tuesday,Thursday,Friday,Thursday,CAT,Easy
+490,"x and h are both positive integers. When x is divided by 7, the quotient is h with a remainder of 3. Which of the
+following could 
+be the value of x?
+",50,52,45,46,52,CAT,Easy
+491,"A man travels for 6 hours at a rate of 50 miles per hour. His return trip takes him 7 2
+1 hours.
+What is his average speed for the whole trip?
+
+",44.4,45.0,46.8,48.2,44.4,CAT,Easy
+492,"Last season, Arjun’s tennis record was 3 matches won for every 2 he lost. If he played 30 matches last season, how many did he win?
+",10,12,18,20,18,CAT,Easy
+493,"Six bells commence tolling together and toll at intervals of 2,4,6,8,10 and 12 seconds respectively. In 30 minutes, how many times do they toll together? 
+",16,12,22,23,16,CAT,Medium
+494,"Thesum of ages of Sarvesh and his father is 46 years. 3 years back father’s age was4 times more thanSarvesh’s age . Find present age ofSarvesh.
+",11,12,8,16,11,CAT,Medium
+495,"In 30 years, age of Kartik becomes 3 times of his present age . What is hispresent age?
+",15,18,12,16,15,CAT,Medium
+496,"Sumof present ages of P and Q is 60 years. 5 years hence their ages will be in theratio of 3:4 . Find P’s present age.
+",20,25,26,28,25,CAT,Medium
+497,"At the time of marriage , a man was 6 years elder to his wife. 12 years aftertheir marriage , his age is 6/5 times the age of his wife. What was wife’s ageat the time of marriage ?
+
+
+",20,22,16,18,18,CAT,Medium
+498,"Aand B are 3 years and 2 years old respectively . Their father is 40 years old.After how many years father’s age would be twice of combined age of A and B ?
+",8,12,11,10,10,CAT,Medium
+499,"A boy writes all the numbers from 100 to 999. The number of zeroes
+
+that he uses is 'a', the number of 5's that he uses is 'b' and the number of 8's he uses is 'c'. What is the value of b c-a?
+
+",380,480,180,280,380,CAT,Medium
+500,Find the remainder when 2^89 is divided by 89?,3,2,4,5,2,CAT,Medium
+501,"What number should be subtracted from x^3+4x^2+7x + 12 if it is to be perfectly divisible by x + 3?
+",42,41,40,39,42,CAT,Medium
+502,Find the unit's digit in 264^102 + 264^103,0,1,2,3,0,CAT,Medium
+503,"Let n be the number of different 5 digit numbers, divisible by 4 with the digits 1, 2, 3, 4, 5 and 6, no digit being repeated in the numbers. What is the value of n?
+",182,172,192,None,192,CAT,Medium
+504,"Find the total number of distinct vehicle numbers that can be formed using two letters followed by two numbers. Letters need to be distinct.
+",71840,64050,62200,65000,65000,CAT,Medium
+505,"What is the value of 
+1 x 1!+2 x 2!+3!x3!+…. n x n!;
+where n! means n factorial or n(n1)(n2)...
+",(n+1)! / n(n1),(n+1)! - 1!,(n+1)n!,n(n1)(n1)!,n(n1)(n1)!,CAT,Medium
+506,"How many four letter distinct initials can be formed using the alphabets of English language such that the last of the four words is always a consonant?
+",26^3 * 25,26*25*24*23,25*24*23*22,26^3*21,26^3*21,CAT,Medium
+507,"In how many ways can seven friends be seated in a row having 35 seats, such that no two friends occupy adjacent seats?
+",28C7,28P7,29P7,29C7,29P7,CAT,Medium
+508,"How much water must be added to 60 litres of milk at 1.5 litres for Rs.
+
+20 So as to have a mixture worth Rs.10 2/3 a litre?
+Answer is lts
+",15,12,10,18,15,CAT,Medium
+509,"Two vessels A and B contain milk and water mixed in the ratio 5:2 and 7:6 respectively.Find the ratio in which these mixture be mixed to obtain a new mixture in vessel c containing milk and water in the ratio 8:5?
+",7:9,1:7,3:8,2:9,7:9,CAT,Medium
+510,"How many kilograms of coffee costing Rs. 9 per kg must be mixed with 27 kg of coffee costing Rs.7 per kg so that there may be gain of 10% by selling the mixture at Rs.9.24 per kg?
+",60,50,63,77,63,CAT,Medium
+511,"
+P can contains a mixture of two liquids P and Q in the ratio 7:5 when 9 litres of mixture are drawn off and the can is filled with Q, the ratio of P and Q becomes 7:9. How many litres of liquid P was contained by the can initially?
+",21,28,45,36,21,CAT,Medium
+512,"
+A boy travelled a distance of 90Km in 9 hours partly on foot at 8 kmph and partly on bicycle at 17 kmph. Find the distance travelled on foot.
+",46,58,56,62,56,CAT,Medium
+513,"A train 110 meters long is running with a speed of 60 km/hr. In what time will it pass a boy who is running at 6 km/hr in the direction opposite to that in which the train is going?
+",4,3,6,5,6,CAT,Medium
+514,"Find the length of the platform, If a train passes a station platform in 36 seconds and a boy standing on the platform in 20 seconds and the speed of the train is 54 km/hr.
+Answer in m.",240,130,270,245,240,CAT,Medium
+515,"Find the length of the train, If A train takes 18 seconds to pass completely through a station 162 m long and 15 seconds through another station 120 m long.
+",80,90,110,95,90,CAT,Medium
+516,"A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is :
+",120,150,130,170,150,CAT,Medium
+517,"A train crosses a platform 100 m long in 60 seconds at a speed of 45 km/hr. The time taken by the train to cross an electric pole is :
+",51,52,53,54,52,CAT,Medium
+518,"Find the length of the train, If a train running at the speed of 60 km/hr crosses a pole in 9 seconds.
+",120,110,100,150,150,CAT,Medium
+519,"Find the speed of the train, If a train 132 m long pass a pole in 6 seconds.
+Answer in kph",77.2,79.6,80.2,79.2,79.2,CAT,Medium
+520,"When a student weighing 45 kgs left a class, the average weight of the remaining 59 students increased by 200g. What is the average weight of the remaining 59 students?
+",76,59,57,52.2,57,CAT,Medium
+521,"The difference between two angles of a triangle is 24o. The average of the same two angles is 54o.Which one of the following is the value of the greatest angle of the triangle?
+",72,45,66,60,72,CAT,Medium
+522,"After many years of war and bloodshed, some became _________ suffering, casting a blind eye to scenes of
+misery around them.
+
+",exempted from,dominant over,maudlin over,inured to,inured to,CAT,Medium
+523,"After a brief initial struggle over power, the group elected a leader and _________ into a surprisingly harmonious
+team.
+
+",fractured ,coalesced,amortized,syncopated,coalesced,CAT,Medium
+524,"The director inserted deliberate _________ into the play—for example, Hamlet typed his letters to Ophelia on a
+laptop.
+
+",platitudes,paradigms,neologisms,anachronisms,anachronisms,CAT,Medium
+525,"The ancient tablet presents a true _________: none have been able to decode it.
+",stanza,gem,incentive,enigma,enigma,CAT,Medium
+526,"Just as reminiscences of a childhood spent in rural Mexico color the poet’s work, so too does the experience of
+war _________ her poetry.
+
+",mimic,inform,invalidate,defer,inform,CAT,Medium
+527,"During the German occupation of France, the draconian measures of the occupiers met armed resistance from
+civilian _________, inspired by desperate conditions to fight in their own streets.
+
+",writers ,fighters,politicians,mercenaries,fighters,CAT,Medium
+528,"Representative government arose in part from dissatisfaction with too many monarchs making _________
+decisions without regard for precedents.
+
+",considered,malicious,erratic,pessimistic,erratic,CAT,Medium
+529,"Because the Lewis and Clark expedition through the West was conceived primarily as a mapping project,
+government officials were _________ by the wealth of information on a myriad of topics that the explorers
+gathered.
+
+",flabbergasted,crushed,bored,aggravated,flabbergasted,CAT,Medium
+530,"Only by ignoring Afghanistan’s long history as a military quagmire could pundits pontificate that fresh infusions of
+men and material would lead to _________ victory.
+
+",pyrrhic,swift,ephemeral,fleeting,swift,CAT,Medium
+531,"Geneticists find Iceland a living laboratory for the study of _________ because virtually all of its current 300,000
+citizens descend from less than a thousand Icelanders who survived the medieval Black Death.
+
+",diversity,therapy,history,revivification,diversity,CAT,Medium
+532,"Given the influx of information via social media, the only way that a person can function effectively is to
+_________, to metaphorically separate the wheat from the chaff.
+
+",delete,triage,respond,requite,triage,CAT,Medium
+533,"In the 19th century, Thomas Carlyle called economics “the dismal science,” in part because of Malthus’s theory
+that population growth would outpace our natural resources, causing widespread _________.
+
+",dearth,rapture,debauchery,pulchritude,dearth,CAT,Medium
+534,"A jogger running at 9km/h alongside a railway track is 40 m ahead of the engine of a 120 m long train running at 45 km/h in the same direction. In how much time will thetrain pass the jogger?
+",52sec,22sec,26sec,36sec,36sec,CAT,Hard
+535,"A milk vendor has 2 cans of milk .The first contains 25% water and the rest milk.The second contains 50% water. How much milk should he mix from each of thecontainer so as to get 12 litres of milk such that the ratio of water to milk is3:5?
+",1l,6l,5l,7l,6l,CAT,Hard
+536,"Find the value of x, If a sample of x litres from a container having a 60 litre mixture of milk and water containing milk and water in the ratio of 2 : 3 is replaced with pure milk so that the container will have milk and water in equal proportions.
+",30l,5l,6l,10l,10l,CAT,Hard
+537,"In what ratio must a boy mix three kinds of coffee costing him Rs 1.20,Rs 1.44 and Rs 1.74 per Kg so that the mixture may be worth Rs 1.41 per Kg?
+",11:45:7,11:77:7,27:23:6,25:45:8,11:77:7,CAT,Hard
+538,"A20 litre mixture of milk and water contains milk and water in the ratio 3: 2.10 litres of the mixture is removed and replaced with pure milk and theoperation is repeated once more. At the end of the two removals andreplacement, what is the ratio of milk and water in the resultant mixture?
+",9:1,5:3,3:17,17:3,9:1,CAT,Hard
+539,"In what ratio must a person mix three kinds of tea costing Rs.60/kg,
+
+Rs.75/kg and Rs.100 /kg so that the resultant mixture when sold at Rs.96/kg yields a profit of 20%?
+
+",1:2:4,1:4:2,3:7:6,None,1:4:2,CAT,Hard
+540,"How many words of 4 consonants and 3 vowels can be made from 12 consonants and 4 vowels, if all the letters are different?
+",14C4*8C3*7!,15C4*7!,12C4*4C3,12C4*4C3*7!,12C4*4C3*7!,CAT,Hard
+541,"There are five comics numbered from 1 to 5. In how many ways can they be arranged, so that part-1 and part-3 are never together?
+",72,56,81,45,72,CAT,Hard
+542,"How many factors of 25 x 36 x 52 are perfect squares?
+",21,24,45,32,24,CAT,Hard
+543,"Findthe number of ways in which 8064 can be resolved as the product of two factors?
+",12,14,24,19,24,CAT,Hard
+544,"Thereare total 12 ""TRUE"" or ""FALSE"" questions. In
+
+how many ways these questions can be answered ?
+ 
+
+",512,406,2048,1024,406,CAT,Hard
+545,"Three gold coins of weight 780gm, 840gm and 960gm are cut into small pieces, all of which have the equal weight. Each piece must be heavy as possible. If one such piece is shared by two persons, then how many persons are needed to give all the pieces of gold coins?
+",320,100,86,65,86,CAT,Hard
+546,Find the remainder when P is divided by 9?,8,2,3,4,8,CAT,Hard
+547,"The largest number among the following that will perfectly divide 101100–1 is:
+",10000,100000,1000,100,10000,CAT,Hard
+548,"Theremainder when 7^84 is divided by 342 is
+",348,1,230,114,1,CAT,Hard
+549,"P’sage is 50 years and Q’s age is 18 years.In how many years will P be
+
+twice as old as Q ?
+
+
+
+",20,12,14,18,14,CAT,Hard
+550,"Theages of A and B are in the ratio of 8:5 . If the sum of their ages is 39 years,what will the ratio of their ages after 9 years ?
+",10:8,11:6,11:8,10:6,11:8,CAT,Hard
+551,"Sumof present ages of A,B and C is 72 years. If 4 years ago , the ratio of theirages were 1:2:3 respectively, find A’s present age.
+",18,14,10,20,14,CAT,Hard
+552,"The greatest number of four digits which isdivisible by 15, 25, 40 and 75 is:
+",9600,8500,8875,8740,9600,CAT,Hard
+553,"Theleast multiple of 7, which leaves a remainder of 4, when divided by 6, 9,
+
+15and 18 is:
+
+",300,364,250,420,364,CAT,Hard
+554,"Even after reducing the marked price of a transistor by Rs. 32, a shopkeeper makes a profit of 15%. If the cost price be Rs.320, what percentage of profit would he have made if he had sold the transistor at the marked price?
+",25,120,30,20,25,CAT,Hard
+555,"Find the C.P of the book,If a book is sold at 5% gain instead of 5% loss,the seller gets Rs 6.72 more.
+",148.81,120.25,150.41,160.1,148.81,CAT,Hard
+556,"A shopkeeper sells a badminton racket, whose marked price is Rs. 30, at a discount of 15% and gives a shuttle cock costing Rs. 1.50 free with each racket. Even then he makes a profit of 20%. His cost price per racket is :
+",37,50,65,20,20,CAT,Hard
+557,"Two pipes P and Q together can fill a cistern in 4 hours. Had they been opened separately, then Q would have taken 6 hours more than P to fill the cistern. How much time will be taken by P to fill the cistern separately?
+",6h,5h,20h,10h,6h,CAT,Hard
+558,"One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
+",105m,111m,144m,64m,144m,CAT,Hard
+559,"Three taps P, Q and R can fill a tank in 12, 15 and 20 hours respectively. If P is open all the time and Q and R are open for one hour each alternately, the tank will be full in:
+",12h,3h ,7h,5h,7h,CAT,Hard
+560,"The Fed knows that a certain level of financial stability can be attained by lowering interest rates, yet if it overuses
+this power, it risks losing its most reliable means of _________ a crisis.
+
+",assuaging,interring,exacerbating,compounding,assuaging,CAT,Hard
+561,"Even though Mariposa loved taking on roles that involved a lot of lines, she was excited to be playing a more
+__________ character, which would require her to focus more on gesture and expression.
+
+",mute,dejected,dramatic,curt,curt,CAT,Hard
+562,"Most physics textbooks are dense and abstruse, whereas Richard Feynman can describe the most recondite
+mysteries with impressive __________.
+
+",panache,lucidity,prowess,sagacity,lucidity,CAT,Hard
+563,"The beauty queen’s mother could not believe her daughter had been disqualified for hitting one of the judges with
+her baton, and she would not be __________ by the official’s offer of a free steak dinner.
+
+",placated,pleased,mollified,deterred,mollified,CAT,Hard
+564,"Though Hamlet is famous for being _________, he still manages to go on something of a killing spree in
+Shakespeare’s play, proving that he is hardly paralyzed with depression.
+
+",violent,morose,melancholy,indecisive,morose,CAT,Hard
+565,"The representative’s violent ascension to prominence began with a __________ attack on the comparatively
+conciliatory leaders of his own party.
+
+",biased,savage,imperious,partisan,savage,CAT,Hard
+566,"A single short story can suggest a desired response from the reader. It is a difficult task, though, to create
+a world within a single short story and then repeat this world again in other stories while maintaining a
+consistent flow of ideas. Many authors prefer to use the same setting, indeed, often the same characters in
+each story. Isabel Allende’s Diez Cuentos’ de Eva
+5 Luna comes to mind. In these stories, Allende uses the small town of Agua Santa as the setting for the entire
+collection.
+Woman Hollering Creek is a collection of short stories by Sandra Cisneros. Rather than using the same
+characters or setting throughout the collection, Cisneros takes a different approach to relating her stories to
+one another. Much of the burden, in fact, is placed on
+10
+the reader, for the characters change each time, as does the setting. Furthermore, while the characters are
+largely Mexican American immigrant women, each character presents a distinct style and literary voice. What
+these works have in common is more intuitive; mood, circumstance, time, tone, and imagery all play a role in
+creating the world in which the stories take place.
+63. The author of the passage would be most likely to agree with which of the following statements?
+
+","Short story collections depend on the reader to find the common thread that ties the stories together.
+","Isabel Allende uses the same setting for the majority of her fiction.
+","It is possible to create a coherent short story collection if the stories take place in vastly different
+times and places.
+
+","Intuition is a more important aspect of Sandra Cisneros’s writing than the characters or the setting.
+","It is possible to create a coherent short story collection if the stories take place in vastly different
+times and places.
+
+",CAT,Hard
+567,"A single short story can suggest a desired response from the reader. It is a difficult task, though, to create
+a world within a single short story and then repeat this world again in other stories while maintaining a
+consistent flow of ideas. Many authors prefer to use the same setting, indeed, often the same characters in
+each story. Isabel Allende’s Diez Cuentos’ de Eva
+5 Luna comes to mind. In these stories, Allende uses the small town of Agua Santa as the setting for the entire
+collection.
+Woman Hollering Creek is a collection of short stories by Sandra Cisneros. Rather than using the same
+characters or setting throughout the collection, Cisneros takes a different approach to relating her stories to
+one another. Much of the burden, in fact, is placed on
+10
+the reader, for the characters change each time, as does the setting. Furthermore, while the characters are
+largely Mexican American immigrant women, each character presents a distinct style and literary voice. What
+these works have in common is more intuitive; mood, circumstance, time, tone, and imagery all play a role in
+creating the world in which the stories take place.
+2)According to the passage, which of the following characterizes both short stories by Isabel Allende and short
+stories by Sandra Cisneros?
+
+
+","Similarities in tone
+",Similarities in time,Similarities in setting,none,none,CAT,Hard
+568,"Scottish economist Adam Smith’s The Wealth of Nations heralded—or caused—the market-based
+economic system that has increasingly become the norm since the book’s publication in 1776. Some say that
+Smith’s magnum opus was to economics as Newton’s Principia Mathematica was to physics or as Darwin’s
+On the Origin of Species was for biology.
+5 Certainly the book made its impact in the early United States.
+1776 predates wide usage of the term capitalism, now commonly associated with Smith, and which
+Smith refers to as a “system of natural liberty.” Smith presented what we today consider Economics 101:
+supply and demand, and the importance of specialization and the division of labor. He also posited that
+individuals pursuing their own self-interest could
+10 unintentionally create a more just society by so doing—an idea sometimes referred to as the “Invisible Hand.”
+Even Smith’s critics do not deny the book’s immense influence. Murray Rothbard levels the criticism
+that The Wealth of Nations, in fact, eclipsed public knowledge of all economists—better ones, he says—
+before Smith.
+Consider each of the answer choices separately and indicate all that apply.
+65. Which of the following statements is not in contradiction with the opinions of Murray Rothbard as expressed in
+the passage?
+
+","Smith was possibly the third best economist of all time.
+","Adam Smith was not particularly influential.
+","The Wealth of Nations should not have been as influential as it was.
+","A market in which there are more buyers than sellers, thus forcing the price of goods upwards.
+","Smith was possibly the third best economist of all time.
+",CAT,Hard
+569,"Scottish economist Adam Smith’s The Wealth of Nations heralded—or caused—the market-based
+economic system that has increasingly become the norm since the book’s publication in 1776. Some say that
+Smith’s magnum opus was to economics as Newton’s Principia Mathematica was to physics or as Darwin’s
+On the Origin of Species was for biology.
+5 Certainly the book made its impact in the early United States.
+1776 predates wide usage of the term capitalism, now commonly associated with Smith, and which
+Smith refers to as a “system of natural liberty.” Smith presented what we today consider Economics 101:
+supply and demand, and the importance of specialization and the division of labor. He also posited that
+individuals pursuing their own self-interest could
+10 unintentionally create a more just society by so doing—an idea sometimes referred to as the “Invisible Hand.”
+Even Smith’s critics do not deny the book’s immense influence. Murray Rothbard levels the criticism
+that The Wealth of Nations, in fact, eclipsed public knowledge of all economists—better ones, he says—
+before Smith.
+Consider each of the answer choices separately and indicate all that apply.
+Which of the following would be an example of the “Invisible Hand” as described by Adam Smith?
+
+","A group of moviegoers who are able to get cheaper tickets for a film by buying their tickets as a
+group.
+
+","A society in which the division of labor frees certain people to pursue careers that might seem
+impractical in a non-capitalist society.
+
+","A university in which classes are first-come, first-served, thereby equitably distributing courses
+according to the passion and dedication of students.
+
+","A stock exchange in which each trader acts according to a different set of information, such that
+certain commodities become hyped and their prices overinflated.
+
+","A university in which classes are first-come, first-served, thereby equitably distributing courses
+according to the passion and dedication of students.
+
+",CAT,Hard
+570,"A 1 meter by 1 meter by 1 meter sheet of paper is to be cut into 4 centimeter by 5 centimeter rectangles. How
+many such rectangles can be cut
+ from the sheet of paper?",504,450,500,305,500,CAT,Vhard
+571,"A 10 foot ladder leans against a vertical wall and forms a 60 degree angle with the floor. Assuming the ground
+below the ladder is perfectly horizontal, how far above the ground is the top of the ladder?",5ft,(5*1.732)ft,10ft,9ft,(5*1.732)ft,CAT,Vhard
+572,"The organizer of the university’s series of public debates commented that it is difficult to find a suitable
+adjudicator for debates on certain controversial matters, as there exist topics in regards to which no one is
+_________.
+
+",pellucid,disinterested,jocular,subjective,disinterested,CAT,Vhard
+573,"It was apparent to everyone present that upon receiving the medal, a decoration long past due, the superannuated
+veteran adopted a mood of exaggerated hilarity, almost as if the unexpected resolution of a lifetime of injustice
+came as a _________ surprise.
+
+",prodigal,plangent,risible,parsimonious,risible,CAT,Vhard
+574,"Despite their diminutive stature, horse jockeys are far from _________ bunch: many would all-too-happily allow
+minor umbrage to escalate to barroom brawl.
+
+
+",a stygian,a farcical,an effete,an evocative,an effete,CAT,Vhard
+575,"The apparent simplicity of a cup of coffee _________ the dizzying number of hours of toil required to produce it,
+from months of cultivation of the bean tree to painstaking refinement in highly sophisticated machinery.
+
+
+",redresses,confirms,belies,fosters,belies,CAT,Vhard
+576,"The representative’s violent ascension to prominence began with a __________ attack on the comparatively
+conciliatory leaders of his own party.
+
+",truculent,partisan,biased,imperious,truculent,CAT,Vhard
+577,"Even those accustomed to the austere beauty of mathematics may be daunted by the __________ with which
+Bourbaki conducts his proofs.
+
+",celerity,diligence,asperity,rigor,rigor,CAT,Vhard
+578,"Even from a distance, the man could see that the tornado had _____________ from the site all but the most
+basic elements of his childhood home; nothing but traces of the original foundations remained.
+
+",tethered,extirpated,effaced,hallowed,effaced,CAT,Vhard
+579,"Even from a distance, the man could see that the tornado had _____________ from the site all but the most
+basic elements of his childhood home; nothing but traces of the original foundations remained.
+
+",rout,forgery,fallacy,infirmity,rout,CAT,Vhard
+580,"By selling a blanket for Rs. 300, a shopkeeper gains 20%. During a clearance sale, the shopkeeper allows a discount of 10% on the marked price. His gain percent during the sale is :
+",95,10%,12%,8%,8%,CAT,Vhard
+581,"The cost price of a book is 64% of the marked price. Calculate the gain percent after allowing a discount of 12%.
+",30%,37.5%,50.45%,65.%,37.5%,CAT,Vhard
+582,"A trader marked the selling price of a book at 10% above the cost price. At the time of selling, he allows certain discount and suffers a loss of 1%. He allowed a discount of :
+",8%,9%,10%,12.5%,10%,CAT,Vhard
+583,"If theproduct of two numbers is 2028 and their H.C.F. is 13. The number of
+
+such pairsis
+
+",1 ,2 ,4,7,2,CAT,Vhard
+584,"Theleast multiple of 7, which leaves a remainder of 4, when divided by 6, 9,
+",364,300,250,420,364,CAT,Vhard
+585,"2years ago A’s age was 6 times of B’s age . 6 years after the ratio between theages of A and B becomes 10 : 3. What is A’s present age
+",44,38,42,34,44,CAT,Vhard
+586,"Ifratio of Kartik’s age to that of his father is 1:5 . After 10 years their ageswill be in the ratio of 1:3 . What is the current age of father?
+",44,42,50,34,50,CAT,Vhard
+587,"Ratiobetween present ages of A and B is 3:4 . What is the present age of A if 4years ago , the ratio was 5:7?
+",22,24,30,34,24,CAT,Vhard
+588,"Ratioof present ages of father and son is 8:3 . If 10 years from now , the ratiobecomes 2:1 , find present age of son.
+",14,15,19,24,15,CAT,Vhard
+589,"5years ago father’s age was 3 times of his son’s age . 5 years from now , theratio between the ages of father and son becomes 11:5 . Find father’s presentage .
+",30,40,50,48,50,CAT,Vhard
+590,"Twoprime numbers A,B(A23, then which of thefollowing numbers
+ 
+would always divide A+B?
+
+",21,16,12,8,12,CAT,Vhard
+591,"Acertain number (N1) when divided by 222 leaves a remainder 35, another number(N2)whendivided by 407 leaves a remainder 47. What is the remainder when the sum ofthese two numbers is divided by 37?
+",14,8,12,22,8,CAT,Vhard
+592,"Whatis the remainder let after dividing 1!+2!+3!.....+10! by 7?
+",3,5,7,2,5,CAT,Vhard
+593,Whatis the remainder when 3^7 is divided by 8?,10,33,27,3,3,CAT,Vhard
+594,"Ina meet, persons from five different places have assembled in Pune HighSchool. From the five places the persons come to represent are 42,60,210,90 and84. What is the minimum number of rooms that would be required to accommodateso that each room has the same number of occupants and occupants are all fromthe same places?
+",51,71,61,81,81,CAT,Vhard
+595," If the letters of the word LABOUR are permuted in
+all possible ways and the words formed by the
+activity are arranged in a dictionary, Then calculate
+the rank of the word LABOUR.
+ 
+
+
+",424,442,242,244,242,CAT,Vhard
+596,"Aclass photograph has to be taken. The front row
+
+consists of 6 girls who aresitting. 20 boys are
+
+standing behind. The two corner positions are
+
+reserved forthe 2 tallest boys. In how many ways can
+
+the students be arranged?
+
+",81!*1440,18!*1440,12!*1440,14!*1440,18!*1440,CAT,Vhard
+597,If5×nP3=4× n+1P3 find n?,4,5,12,14,14,CAT,Vhard
+598,"There are three sections consisting of 4,5 and 6
+
+questions respectively in an examination paper.
+
+Attempting one question from each section is
+
+compulsory but a candidate do not need to attempt all
+
+the questions. In how many ways the questions can be
+attempted?  
+
+",37362,24352,25259,29295,29295,CAT,Vhard
+599,"Calculate the number of ways in which a a mixed double tennis players can be arranged, if there are a total of 9 couples and no couple can play in the same game.
+",2125,1221,1215,1512,1512,CAT,Vhard
+600,"How many litres of water should be added to a 30 litre mixture of
+
+milk and water containing milk and water in the ratio of 7 : 3 such that
+ 
+the resultant mixture has 40% water in it?
+
+",5l,6l,7l,8l,5l,CAT,Vhard
+601,"Themilk and water in two vessels P and Q are in the ratio 4:3 and
+
+2:3respectively. In what ratio the liquids in both the vessels be mixed to
+
+obtaina new mixture in vessel R consisting half milk and half water?
+
+",9:2,3:8,2:5,7:5,7:5,CAT,Vhard
+602,"What is operating system?
+","collection of programs that manages hardware resources
+","system service provider to the application programs
+","link to interface the hardware and application programs
+","all of the mentioned
+","all of the mentioned
+",tech,easy
+603,"To access the services of operating system, the interface is provided by the
+",system calls,API,library,assembly instructions,system calls,tech,easy
+604,"By operating system, the resource management can be done via
+","time division multiplexing
+","space division multiplexing
+
+",both (a) and (b),none,both (a) and (b),tech,easy
+605,"The systems which allows only one process execution at a time, are called
+","uniprogramming systems
+","uniprocessing systems
+",unitasking systems,none,"
+uniprogramming systems",tech,easy
+606,"A process can be terminated due to
+",normal exit,fatal error,killed by another process, all of the mentioned,all of the mentioned,tech,easy
+607,"
+#include<stdio.h>
+
+int main()
+{
+    FILE *fp1, *fp2;
+    fp1=fopen(""file.c"", ""w"");
+    fp2=fopen(""file.c"", ""w"");
+    fputc('A', fp1);
+    fputc('B', fp2);
+    fclose(fp1);
+    fclose(fp2);
+    return 0;
+}
+",B,A B,B B,"Error in opening file
+",B,tech,easy
+608,"#include<stdio.h>
+
+int main()
+{
+    int k=1;
+    printf(""%d == 1 is"" ""%s\n"", k, k==1?""TRUE"":""FALSE"");
+    return 0;
+}
+",k == 1 is TRUE,1 == 1 is TRUE,"1 == 1 is FALSE
+",K == 1 is FALSE,"1 == 1 is TRUE
+",tech,easy
+609,"#include<stdio.h>
+
+int main()
+{
+    float a=3.15529;
+    printf(""%2.1f\n"", a);
+    return 0;
+}
+",3,3.15,3.2,3,3.2,tech,easy
+610,"#include<stdio.h>
+
+int main()
+{
+    char *p;
+    p=""%d\n"";
+    p++;
+    p++;
+    printf(p-2, 23);
+    return 0;
+}
+",21,23,Error,No output,23,tech,easy
+611,"#include<stdio.h>
+
+int main()
+{
+    printf(""%%%%\n"");
+    return 0;
+}
+",%%%%%,%%,No output,Error,%%,tech,easy
+612,"When collection of various computers seems a single coherent system to its client, then it is called
+",computer network,distributed system,both (a) and (b),none,distributed system,tech,easy
+613,"Two devices are in network if
+","a process in one device is able to exchange information with a process in another device
+","a process is running on both devices
+","PIDs of the processes running of different devices are same
+","none of the mentioned
+","a process in one device is able to exchange information with a process in another device
+",tech,easy
+614,"Which one of the following computer network is built on the top of another network?
+",prior network,chief network,prime network,overlay network,overlay network,tech,easy
+615,Bluetooth is an example of,personal area network,local area network,virtual private network,none,personal area network,tech,easy
+616," A list of protocols used by a system, one protocol per layer, is called
+",protocol architecture,protocol stack,protocol suit,none,protocol stack,tech,easy
+617,"TCP/IP model does not have ______ layer but OSI model have this layer.
+",session layer,presentation layer,application layer,both (a) and (b),both (a) and (b),tech,easy
+618," The decoded instruction is stored in ______ .
+",IR,PC,Registers,MDR,IR,tech,easy
+619,"The instruction -> Add LOCA,R0 does,
+","Adds the value of LOCA to R0 and stores in the temp register
+","Adds the value of R0 to the address of LOCA
+","Adds the values of both LOCA and R0 and stores it in R0
+","Adds the value of LOCA with a value in accumulator and stores it in R0
+","Adds the values of both LOCA and R0 and stores it in R0
+",tech,easy
+620," Which registers can interact with the secondary storage 
+",MAR,PC,IR,RO,MAR,tech,easy
+621,"During the execution of a program which gets initialized first ?
+",MAR,IR,PC,MAR,PC,tech,easy
+622,"A relational database consists of a collection of
+",Tables,Fields,Records,Keys,Tables,tech,easy
+623,"A ________ in a table represents a relationship among a set of values.
+",Column,Key,Row,Entry,Row,tech,easy
+624,"For each attribute of a relation, there is a set of permitted values, called the ________ of that attribute.
+",Domain,Relation,Set,Schema,Domain,tech,easy
+625,"The term _______ is used to refer to a row.
+",attribute,tuple,field,instance,tuple,tech,easy
+626,"Which one of the following is used to define the structure of the relation ,deleting relations and relating schemas ?
+",DML,DDL,Query,Relational schema,DDL,tech,easy
+627,"Which one of the following is not an Evolutionary Process Model?
+",WINWIN Spiral Model,Incremental Model,"Concurrent Development Model
+",all of the mentioned,all of the mentioned,tech,easy
+628," What is the major advantage of using Incremental Model?
+","Customer can respond to each increment
+",Easier to test and debug,"It is used when there is a need to get a product to the market early
+",Both b & c,Both b & c,tech,easy
+629,"The spiral model has two dimensions namely _____________ and ____________.
+","diagonal, angular","radial, perpendicular","radial, angular","diagonal, perpendicular","radial, angular",tech,easy
+630,"Identify the disadvantage of Spiral Model.
+","Doesn’t work well for smaller projects
+","High amount of risk analysis
+","Strong approval and documentation control
+","Additional Functionality can be added at a later date
+","Doesn’t work well for smaller projects
+",tech,easy
+631," If you were to create client/server applications, which model would you go for?
+",WINWIN Spiral Model,Spiral Model,Concurrent Model,Incremental Model,Concurrent Model,tech,easy
+632,Remote Procedure Calls are used,"for communication between two processes remotely different from each other on the same system
+",for communication between two processes on the same system,for communication between two processes on separate systems,None of these,for communication between two processes on separate systems,tech,med
+633,"To differentiate the many network services a system supports ______ are used.
+",Variables,Sockets,Ports,Service names,Ports,tech,med
+634,"#include<stdio.h>
+
+int main()
+{
+    int a=250;
+    printf(""%1d \n"", a);
+    return 0;
+}
+",1250,2,50,250,250,tech,med
+635,"#include<stdio.h>
+
+int main()
+{
+    FILE *fp;
+    char ch, str[7];
+    fp=fopen(""try.c"", ""r""); /* file 'try.c' contains ""This is Nagpur"" */
+    fseek(fp, 9L, SEEK_CUR);
+    fgets(str, 5, fp);
+    puts(str);
+    return 0;
+}
+",agpur,gpur,Nagp,agpu,agpu,tech,med
+636,"#include<stdio.h>
+
+int main()
+{
+    int i;
+    printf(""%d\n"", scanf(""%d"", &i));
+    return 0;
+}
+",25,2,1,5,1,tech,med
+637,"#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+    unsigned char;
+    FILE *fp;
+    fp=fopen(""trial"", ""r"");
+    if(!fp)
+    {
+        printf(""Unable to open file"");
+        exit(1);
+    }
+    fclose(fp);
+    return 0;
+}
+","Error: in unsigned char statement
+","Error: unknown file pointer
+",No error,none,No error,tech,med
+638,"#include<stdio.h>
+
+int main()
+{
+    char ch;
+    int i;
+    scanf(""%c"", &i);
+    scanf(""%d"", &ch);
+    printf(""%c %d"", ch, i);
+    return 0;
+}
+","Error: suspicious char to in conversion in scanf()
+","Error: we may not get input for second scanf() statement
+",No error,none,"Error: we may not get input for second scanf() statement
+
+]",tech,med
+639,An un-interruptible unit is known as :,single,atomic,static,none,atomic,tech,med
+640,"The TestAndSet instruction is executed :
+","after a particular process
+",periodically,atomically,none,atomically,tech,med
+641,"Semaphore is a/an _______ to solve the critical section problem.
+",hardware,special program,integral variable,none,integral variable,tech,med
+642,What is the reusable resource?,"that can be used by one process at a time and is not depleted by that use
+","that can be used by more than one process at a time
+","that can be shared between various threads
+","none of the mentioned
+","that can be used by one process at a time and is not depleted by that use
+",tech,med
+643," The circular wait condition can be prevented by
+",defining a linear ordering of resource types,using thread,using pipes,all of the mentioned,"defining a linear ordering of resource types
+",tech,med
+644,"What is the drawback of banker’s algorithm?
+","in advance processes rarely know that how much resource they will need
+","the number of processes changes as time progresses
+"," resource once available can disappear
+","all of the mentioned
+","all of the mentioned
+",tech,med
+645,"With paging there is no ________ fragmentation.
+",internal,external,either type of,none,external,tech,med
+646,"The page table registers should be built with _______.
+",very low speed logic,very high speed logic,a large memory space,None of these,very high speed logic,tech,med
+647,"Transmission data rate is decided by
+",network layer,physical layer,data link layer,transport layer,physical layer,tech,med
+648,"The main aim of v
+irtual memory organisation is","To provide effective memory access.
+","To provide better memory transfer.
+","To improve the execution of the program.
+
+",All of the above.,All of the above.,tech,med
+649,"The PROM is more effective than ROM chips in regard to _______.
+",Cost,"Memory management
+",speed,both a and c,both a and c,tech,med
+650,"The ROM chips are mainly used to store _______.
+",System files," Root directories
+",Boot files,Driver files,Boot files,tech,med
+651,"The disadvantage of the EPROM chip is
+",The high cost factor.,The low efficiency.,"The low speed of operation
+","The need to remove the chip physically to reprogram it.
+","The need to remove the chip physically to reprogram it.
+",tech,med
+652,"The first fit, best fit and worst fit are strategies to select a ______
+","process from a queue to put in memory
+","processor to run the next process
+","free hole from a set of available holes
+",all,"free hole from a set of available holes
+",tech,hard
+653,"When memory is divided into several fixed sized partitions, each partition may contain ________.
+",exactly one process,atleast one process,multiple processes at once,none,exactly one process,tech,hard
+654,"Using EDF algorithm practically, it is impossible to achieve 100 percent utilization due to : (choose all that apply)
+","the cost of context switching
+
+",interrupt handling,"power consumption
+",all,"interrupt handling
+",tech,hard
+655, Rate monotonic scheduling assumes that the :,"processing time of a periodic process is same for each CPU burst
+"," processing time of a periodic process is different for each CPU burst
+","periods of all processes is the same
+",none,processing time of a periodic process is same for each CPU burst,tech,hard
+656,"A process P1 has a period of 50 and a CPU burst of t1 = 25, P2 has a period of 80 and a CPU burst of 35. The total CPU utilization is :
+",0.9,0.74,0.94,0.8,0.94,tech,hard
+657,The stub :,"transmits the message to the server where the server side stub receives the message and invokes procedure on the server side
+","packs the parameters into a form transmittable over the network
+","locates the port on the server
+",all of these,all of these,tech,hard
+658,In a memory mapped input/output :," the CPU uses polling to watch the control bit constantly, looping to see if device is ready
+","the CPU writes one data byte to the data register and sets a bit in control register to show that a byte is available
+","the CPU receives an interrupt when the device is ready for the next byte
+"," the CPU runs a user written code and does accordingly
+","the CPU writes one data byte to the data register and sets a bit in control register to show that a byte is available
+",tech,hard
+659," If no process is suspended, the signal operation :","puts the system into a deadlock state
+","suspends some default process’ execution
+",nothing happens,the output is unpredictable,nothing happens,tech,hard
+660,"If there are N routers from source to destination, total end to end delay in sending packet P(L->number of bits in the packet R-> transmission rate)
+",N,(2N*L)/R,(N*L)/R,L/R,(N*L)/R,tech,hard
+661,ElGamal encryption system is,"symmetric key encryption algorithm
+","asymmetric key encryption algorithm
+",not an encryption algorithm,none of these,asymmetric key encryption algorithm,tech,hard
+662,"#include<stdio.h>
+
+int main()
+{
+    unsigned char ch;
+    FILE *fp;
+    fp=fopen(""trial"", ""r"");
+    while((ch = getc(fp))!=EOF)
+        printf(""%c"", ch);
+    fclose(fp);
+    return 0;
+}
+","Error: in unsigned char declaration
+","Error: while statement
+
+","No error
+","It prints all characters in file ""trial""
+","Error: in unsigned char declaration
+",tech,hard
+663,"#include<stdio.h>
+
+int main()
+{
+    FILE *fp;
+    char str[11], ch;
+    int i=0;
+    fp = fopen(""INPUT.TXT"", ""r"");
+    while((ch=getc(fp))!=EOF)
+    {
+        if(ch == '\n' || ch == ' ')
+        {
+            str[i]='\0';
+            strrev(str);
+            printf(""%s"", str);
+            i=0;
+        }
+        else
+            str[i++]=ch;
+    }
+    fclose(fp);
+    return 0;
+}
+","The code writes a text to a file
+","The code reads a text files and display its content in reverse order
+","The code writes a text to a file in reverse order
+
+",none,"The code reads a text files and display its content in reverse order
+",tech,hard
+664,"#include<stdio.h>
+
+int main()
+{
+    FILE *fptr;
+    char str[80];
+    fptr = fopen(""f1.dat"", ""w"");
+    if(fptr == NULL)
+        printf(""Cannot open file"");
+    else
+    {
+        while(strlen(gets(str))>0)
+        {
+            fputs(str, fptr);
+            fputs(""\n"", fptr);
+        }
+        fclose(fptr);
+    }
+    return 0;
+}
+","The code copies the content of one file to another
+","The code writes strings that are read from the keyboard into a file.
+","The code reads a file
+
+",none,"The code writes strings that are read from the keyboard into a file.
+
+",tech,hard
+665,"#include<stdio.h>
+
+int main()
+{
+    FILE *fs, *ft;
+    char c[10];
+    fs = fopen(""source.txt"", ""r"");
+    c[0] = getc(fs);
+    fseek(fs, 0, SEEK_END);
+    fseek(fs, -3L, SEEK_CUR);
+    fgets(c, 5, fs);
+    puts(c);
+    return 0;
+})
+",friend,frien,end,Error,end,tech,hard
+666,"#include<stdio.h>
+
+/* Assume there is a file called 'file.c' in c:\tc directory. */
+int main()
+{
+    FILE *fp;
+    fp=fopen(""c:\tc\file.c"", ""r"");    
+    if(!fp) 
+      printf(""Unable to open file."");        
+
+    fclose(fp);
+    return 0;
+}
+","No error, No output.
+","Program crashes at run time.
+","Output: Unable to open file.
+",none,"
+Output: Unable to open file.",tech,hard
+667," As the resouces are reserved between two communicating end systems in circuit switching, this is achieved
+",authentication,"guaranteed constant rate
+",reliability,store and forward,guaranteed constant rate,tech,hard
+668," In case of nested subroutines the return addresses are stored in __________ 
+",System heap,Special memory buffers,Processor stack,Registers,Processor stack,tech,hard
+669,The circuit used for the request line is a _________,Open-collector,EX-OR circuit,Open-drain,Nand circuit,Open-drain,tech,hard
+670,"The virtual memory basically stores the next segment of data to be executed on the _________.
+",Secondary storage,Disks,RAM,ROM,Secondary storage,tech,hard
+671,How many phases are there in Scrum ?,2,3,4,"Scrum is an agile method which means it does not have phases.
+",3,tech,hard
+672,What are the four dimensions of Dependability ?,"Usability, Reliability, Security, Flexibility
+","Availability, Reliability, Maintainability, Security
+","Availability, Reliability, Security, Safety
+","Security, Safety, Testability, Usability","Availability, Reliability, Security, Safety",tech,hard
+673,"Select *
+from student join takes using (ID);
+The above query is equivalent to
+","Select *
+from student inner join takes using (ID);
+","Select *
+from student outer join takes using (ID);","Select *
+from student left outer join takes using (ID);",Both A and B ,"Select *
+from student inner join takes using (ID);",tech,hard
+674,"{ (item name, color, clothes size), (item name, color), (item name, clothes size), (color, clothes size), (item name), (color), (clothes size), () }This can be achieved by using which of the following ?
+",group by rollup,group by cubic,group by,none of these,none of these,tech,hard
+675,"A primary key is combined with a foreign key creates
+","Parent-Child relation ship between the tables that connect them
+"," Many to many relationship between the tables that connect them
+", Network model between the tables that connect them,none of these,Parent-Child relation ship between the tables that connect them,tech,hard
+676,"Which one of the following is the right syntax for DECODE ?
+"," DECODE (search, expression, result [, search, result]… [, default])","DECODE (expression, result [, search, result]… [, default], search)","DECODE (search, result [, search, result]… [, default], expression)
+","DECODE (expression, search, result [, search, result]… [, default])","DECODE (expression, search, result [, search, result]… [, default])",tech,hard
+677,What is trap door ?,IT is trap door in WarGames,It is a hole in software left by designer.,It is a Trojan horse,It is a virus which traps and locks user terminal,It is a hole in software left by designer.,tech,Vhard
+678,Which is not a port scan type ?,TCP scanning,SYN scanning,UDP scanning,"SYSTEM Scanning
+","SYSTEM Scanning
+",tech,Vhard
+679,"What are zombie systems ?
+",Are specific system which are designed to attack by manufacturer,They are network of known hacking group,"These systems are previously compromised, independent systems",none,"These systems are previously compromised, independent systems",tech,Vhard
+680,"The register context and stacks of a thread are deallocated when the thread
+",terminates,blocks,unblocks,spawns,terminates,tech,Vhard
+681,"For large files, when the index itself becomes too large to be kept in memory :
+", index is called,an index is created for the index file,secondary index files are created,all of these,an index is created for the index file,tech,Vhard
+682,"Consider a disk queue with requests for I/O to blocks on cylinders :
+98 183 37 122 14 124 65 67                                      Considering SSTF (shortest seek time first) scheduling, the total number of head movements is, if the disk head is initially at 53 :
+
+",224,236,245,240,236,tech,Vhard
+683,"Which one of the following is a transport layer protocol?
+",stream control transmission protocol,internet control message protocol,neighbor discovery protocol,dynamic host configuration protocol, stream control transmission protocol,tech,Vhard
+684,"Voice privacy in GSM cellular telephone protocol is provided by
+
+",A5/2 cipher,b5/4 cipher,b5/6 cipher,"b5/8 cipher
+",A5/2 cipher,tech,Vhard
+685,"If a unit completes its task before the allotted time period, then
+",It’ll perform some other task in the remaining time,"Its time gets reallocated to different task
+",It’ll remain idle for the remaining time,none,It’ll remain idle for the remaining time,tech,Vhard
+686," Which standard TCP port is assigned for contacting SSH servers?
+",port 21,port 22,port 23 ,port 24,port 22,tech,Vhard
+687,"In RPC, while a server is processing the call, the client is blocked
+","unless the client sends an asynchronous request to the server
+","unless the call processing is complete
+
+","for the complete duration of the connection
+",none,unless the client sends an asynchronous request to the server,tech,Vhard
+688,"Suppose two IPv6 nodes want to interoperate using IPv6 datagrams but are connected to each other by intervening IPv4 routers. The best solution here is
+",use dual-stack approach,Tunneling, No solution,Replace rhe system,Tunneling,tech,Vhard
+689,"The most efficient way of handling parameter passing is by using ______ .
+",General purpose registers,Stacks,Memory locations,all,General purpose registers,tech,Vhard
+690,"In CISC architecture most of the complex instructions are stored in _____
+",Register,Diodes,CMOS,Transistors,Transistors,tech,Vhard
+691,"Which of the following is a bad practice of Dependable programming ?
+", Limit the visibility of information in a program,Check array bounds,Check all inputs for validity,None of these,None of these,tech,Vhard
+692,"Which of the following is the worst type of module cohesion?
+",Logical Cohesion,Temporal Cohesion,"Functional Cohesion
+","Coincidental Cohesion
+","Coincidental Cohesion
+",tech,Vhard
+693,"In SQL the statement select * from R, S is equivalent to
+",Select * from R natural join S,Select * from R cross join S,Select * from R union join S,"Select * from R inner join S
+",Select * from R cross join S,tech,Vhard
+694,"Assymmetric Encryption: Why can a message encrypted with the Public Key only be decrypted with the receiver’s appropriate Private Key?
+","Not true, the message can also be decrypted with the Public Key
+",A so called “one way function with back door” is applyed for the encryption,The Public Key contains a special function which is used to encrypt the message and which can only be reversed by the appropriate Private Key,The encrypted message contains the function for decryption which identifies the Private Key,A so called “one way function with back door” is applyed for the encryption,tech,Vhard
+695,"Select item name, color, clothes size, sum(quantity)
+from sales
+group by rollup(item name, color, clothes size);
+How many grouping is possible in this rollup?",8,4,2,1,4,tech,Vhard
+696,"We use ______________ name PL/SQL program objects and units.
+",Lexical Units,Literals,Delimiters,Identifiers,Identfiers,tech,Vhard
+697,"#include <stdio.h>
+    int X(char *s, FILE *iop)
+    {
+        int c;
+        while (c = *s++)
+        putc(c, iop);
+        return ferror(iop) ? EOF : 0;
+    }
+",getc,putc,fgets,fputs,fputs,tech,vhard
+698,"#include <stdio.h>
+    int main()
+    {
+        char *str = ""This"" //Line 1
+        char *ptr = ""Program\n""; //Line 2
+        str = ptr; //Line 3
+        printf(""%s, %s\n"", str, ptr); //Line 4
+    }
+","Memory holding “this” is cleared at line 3
+","Memory holding “this” loses its reference at line 3
+","You cannot assign pointer like in Line 3
+","Output will be This, Program
+","Memory holding “this” loses its reference at line 3
+",tech,vhard
+699,"    #include <stdio.h>
+    int main()
+    {
+        srand(time(NULL));
+        printf(""%d\n"", rand());
+        return 0;
+    }
+
+","Compile time error
+","An integer in the range 0 to RAND_MAX.
+
+","A double in the range 0 to 1
+
+","A float in the range 0 to 1
+","An integer in the range 0 to RAND_MAX
+",tech,vhard
+700,"    #include <stdio.h>
+    typedef struct p *q;
+    int main()
+    {
+        struct p
+        {
+            int x;
+            char y;
+            q ptr;
+        };
+        struct p p = {1, 2, &p};
+        printf(""%d\n"", p.ptr->x);
+        return 0;
+    }
+","Compile time error
+",1,"Depends on the compiler
+",none,"
+Compile time error",tech,vhard
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

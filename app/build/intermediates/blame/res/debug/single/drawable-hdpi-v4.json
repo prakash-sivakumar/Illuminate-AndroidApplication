@@ -1,0 +1,998 @@
+[
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reference.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\reference.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\about.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\download.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taketest.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\taketest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo1.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo1.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\about.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reference.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\reference.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dark.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\dark.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illumlogo.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illumlogo.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.PNG",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo.PNG"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo1.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illumlogo.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illumlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illum_logo.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illum_logo.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illum_logo.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illum_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taketest.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\taketest.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disclaimer.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\disclaimer.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.PNG",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo.PNG"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reference.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\reference.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dark.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\dark.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illum_logo.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illum_logo.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\main.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disclaimer.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\disclaimer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\about.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taketest.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\taketest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\illumlogo.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\illumlogo.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\images.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dark.jpg",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\dark.jpg"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main.jpg",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.PNG",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\logo.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disclaimer.jpg",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\disclaimer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    }
+]

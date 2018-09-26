@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/download"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false"
+        android:lineSpacingExtra="3dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="\r\n\r\n
+1)     	CAT\r\n\r\n
+
+About:          Common Admission Test for pursuing MBA in IIMs and other non IIM Institutes.\r\n\r\n
+Eligibility :     Should have a degree with 50% marks or 45% for other community
+(Even Final year students can take the test.)\r\n\r\n
+Pattern :       Around 100 questions, every correct answer gains 4 marks whereas every wrong answer results in one negative mark.\r\n\r\n
+Syllabus :      Quants verbal di logical reasoning\r\n\r\n"
+
+
+            android:id="@+id/textView1"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+2)     	ATMA(Aims Test for Management Admissions)\r\n\r\n
+
+Level:	 National Level\r\n\r\n
+Eligibility: Should be bachelor’s degree holder\r\n\r\n
+Age limit:   21\r\n\r\n
+Syllabus:  Analytical,  Verbal(RC,SC, Synonyms,Antonyms) and Quants Skills\r\n\r\n
+"
+
+
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+ 3)     CMAT :  Common Management Admission Test\r\n\r\n
+
+Pattern :  4 sections each 25 questions\r\n\r\n
+Syllabus:  Quants and DI,Logical,LAnuage Comprehension,General Awareness\r\n\r\n
+"
+
+
+            android:id="@+id/textView3"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+ 4)    GMAT\r\n\r\n
+
+Eligibility:   AGE  18+ and No exact educational qualifications\r\n\r\n
+Skill set reqd:     Analytical Writing Ability(AWA),  Quants-problem solving and data sufficiency Verbal\r\n\r\n
+"
+
+
+            android:id="@+id/textView4"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+ 5)    IBS Aptitude Test\r\n\r\n
+
+Eligibility:    Should have bachelor degree + Should have 50% mark and English as medium of communication.
+(IF not English then you should submit TOEFL ,IELTS scores)\r\n\r\n
+Syllabus:     Verbal Quants ,RC,DI\r\n\r\n
+Pattern:      Each sections 30 questions\r\n\r\n
+Followed by GD and PI for selected students\r\n\r\n
+
+"
+
+
+            android:id="@+id/textView5"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+6)IIFT exam\r\n\r\n
+
+Eligibility:    Degree holder Final year can apply NO age limit\r\n\r\n
+Pattern:      Written Test and essay writing followed by GD and PI\r\n\r\n
+Syllabus:     Verbal (RC),GK and awareness, Logical, Quants.\r\n\r\n"
+
+
+
+            android:id="@+id/textView6"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+7)  TANCET\r\n\r\n
+
+About:      MBA,MCA in Tamil Nadu\r\n\r\n
+Syllabus:   Verbal DI Quants and Logical, Computer Awareness.\r\n\r\n
+Pattern:    100marks correct : + 1mark  wrong :     -1/3.\r\n\r\n"
+
+
+
+            android:id="@+id/textView7"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

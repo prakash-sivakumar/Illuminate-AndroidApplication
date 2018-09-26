@@ -1,0 +1,44 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/download"
+    android:lineSpacingExtra="3dp"
+
+    tools:context="com.example.illuminate.Disclaimer" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:lineSpacingExtra="3dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="18dp"
+            android:text="The application has been made keeping in mind the maturity of the target audience. The information is provided by ILLUMINATE and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied. Nevertheless we guarantee about the completeness, accuracy, reliability, suitability or availability with respect to the application’s need of the hour. We inherited the data sets (questions) from multiple websites and other  reliable sources for individual domains. Any reliance you place on such information from this application is therefore strictly at your own risk."
+            android:textColor="#020202" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="56dp"
+            android:text="In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this application.Every effort is made to keep the application up and running smoothly. However, ILLUMINATE takes no responsibility for, and will not be liable for, the application’s unavailability due to technical issues beyond our control."
+            android:textColor="#010101" />
+
+    </RelativeLayout>
+
+</ScrollView>

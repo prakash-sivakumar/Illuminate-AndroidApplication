@@ -1,0 +1,62 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/download"
+    tools:context="com.example.illuminate.Help"
+    android:lineSpacingExtra="3dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="413dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="“ILLUMINATE”  is a cognitive self-analysing application exclusively designed for a student’s career prediction. "
+            android:textColor="#010101" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Choose a job you love, and you will never have to work a day in your life.”-Confucius"
+            android:textColor="#010101"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="35dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The level 2 deals with the domain-wise interactive QA . Each answer is fed to the Naïve Bayesian classifier algorithm which serves the purpose of  dynamically retrieving the next question from a particular module of difficulty from the database.Based on the answers the result is generated whereby the individual’s expertise on a particular area will clearly be seen and the person’s capability to fit to a particular domain is unveiled thus helping in predicting the candidates’ career path."
+            android:textColor="#010101"
+            android:layout_marginTop="186dp"
+            android:layout_below="@+id/textView2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This application has two levels of questionnaire rounds based on the user’s input. The level 1 round of questionnaire analyses the general personality of the user. This round helps in evaluating the domain-wise interest of the individual. Based on the analysis of these  inputs the level 2 questionnaire is generated."
+            android:id="@+id/textView"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#040303" />
+
+    </RelativeLayout>
+
+</ScrollView>

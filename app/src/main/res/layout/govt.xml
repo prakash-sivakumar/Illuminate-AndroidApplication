@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/download"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false"
+        android:lineSpacingExtra="3dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="
+ 1)	Civil Service Examination\r\n\r\n
+
+Eligibility:     Any degree from recognized university. Based on the community there are different age limits and different attempts.\r\n\r\n
+•	Three stages of exam :  Preliminary Examination - Objective Type (Qualifier)\r\n\r\n
+•	Main Examination - Written Test\r\n\r\n
+•	Interview / Personality Test\r\n\r\n
+Syllabus : Related to history,geography,economics,politics for 1st round and 2nd round is the test related to main individual subjects.\r\n\r\n
+
+"
+
+
+                android:id="@+id/textView1"
+                android:layout_below="@+id/textView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="
+ 2)		Engineering Services Examination(IES)\r\n\r\n
+
+Eligibility :   Should have an engineer degree. (Civil,Mech,Electrical and Electronics students allowed)\r\n\r\n
+Age limit :   21-30\r\n\r\n
+Pattern : Written and personality test.\r\n\r\n
+
+"
+
+
+                android:id="@+id/textView2"
+                android:layout_below="@+id/textView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="
+3) IBPS PO\r\n\r\n
+
+Pattern:     Total mark of the exam is 200 and duration is 2 hours. There will be Negative Marking of 0.25 marks for each wrong answer.\r\n\r\n
+Syllabus:     Logical reasoning,General awareness,English,Maths,Basic computer knowledge\r\n\r\n
+Age limit:	20-30\r\n\r\n
+
+"
+
+
+                android:id="@+id/textView3"
+                android:layout_below="@+id/textView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="
+4)SBI  PO\r\n\r\n
+Three levels\r\n\r\n
+1st round –quants ,logical,English\r\n\r\n
+2nd round_-objective and descriptive about English\r\n\r\n
+3rd –GD and interview\r\n\r\n
+
+"
+
+
+                android:id="@+id/textView4"
+                android:layout_below="@+id/textView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="
+5)SSC CGL\r\n\r\n
+
+Staff Selection exam\r\n\r\n
+
+Tier-1 Syllabus: viz. English , Reasoning, Quantitative Aptitude and General Awareness.\r\n\r\n
+Tier-2 Syllabus\r\n\r\n
+1) Quantitative Aptitude: 2) English:\r\n\r\n
+
+Descriptive Paper : 1) English\r\n\r\n
+2) Quantitative Aptitude\r\n\r\n
+3) General Awareness\r\n\r\n
+Age limit: Different age limit for different candidates.\r\n\r\n
+
+
+
+
+
+
+Note: You can also  Look for Other Govt exams like RBI grade B,LIC AAO,IBPS PO and SBI Clerk,Indian Railways which are not mentioned here.
+\r\n\r\n
+"
+
+
+                android:id="@+id/textView5"
+                android:layout_below="@+id/textView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

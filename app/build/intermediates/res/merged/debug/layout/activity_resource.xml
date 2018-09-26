@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/download"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false"
+        android:lineSpacingExtra="3dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="\r\n\r\n
+ 1) RESOURCES TO REFER FOR GRE\r\n\r\n
+
+•	 ETS Powerprep Tests\r\n\r\n
+•	 Quizlet\r\n\r\n
+•	 Manhattan GRE Practice Test\r\n\r\n
+•	 Khan Academy\r\n\r\n
+•	 ETS Essay Topic Pools, Argument and Issue\r\n\r\n
+•	 Princeton Review\r\n\r\n
+•	 Magoosh material\r\n\r\n
+"
+
+
+            android:id="@+id/textView1"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+2)  For TOEFL\r\n\r\n
+
+•	LEARN4GOOD.COM\r\n\r\n
+•	NOTEFULL.COM\r\n\r\n
+•	EXAMENGLISH.COM\r\n\r\n
+•	TESTPREPPRACTICE.NET\r\n\r\n
+•	I-COURSES.ORG\r\n\r\n
+•	TOEFLGOANYWHERE.ORG\r\n\r\n
+•	METACAFE.COM\r\n\r\n
+•	TESTMAGIC.COM\r\n\r\n
+•	STUFF.CO.UK\r\n\r\n
+•	ENGVID.COM\r\n\r\n
+•	REALESL.COM\r\n\r\n
+
+"
+
+
+
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="
+3)  FOR GMAT\r\n\r\n
+
+•	Beat the GMAT.com\r\n\r\n
+•	For the real test feel! - At MBA.com\r\n\r\n
+•	For Practice-  Veritas Prep GMAT Simulator\r\n\r\n
+•	Take an online Course -  The Free GMAT Math Course offered by About.com\r\n\r\n
+•	Need Coaching? - AspirantHunt.com\r\n\r\n
+•	How to Score Well – Eduers.com\r\n\r\n
+•	All in one site- Knewton.com\r\n\r\n
+•	Put Yourself To The Test- 4tests.com\r\n\r\n
+•	800Score- You can download free GMAT tests for your use, completely free of charge.\r\n\r\n
+•	QS LEAP: http://www.qsleap.com/\r\n\r\n
+•	Veritas Prep: http://www.veritasprep.com/blog/category/gmat/\r\n\r\n
+•	GMAT Tutor Blog: https://gmat.economist.com/blog\r\n\r\n
+•	GMAT Club: http://gmatclub.com/\r\n\r\n
+•	TopMBA.com: http://www.topmba.com/admissions/gmatgre\r\n\r\n
+•	Beat the GMAT: http://www.beatthegmat.com/mba/how-to-get-a-700-on-the-gmat\r\n\r\n
+•	KAPLAN Test Plan: http://www.kaptest.com/gmat\r\n\r\n
+•	Empower GMAT: http://www.empowergmat.com/\r\n\r\n
+•	Magoosh: https://gmat.magoosh.com/\r\n\r\n
+•	Manhattan Review online GMAT course: http://www.manhattanreview.com/gmat-online-prep-courses/\r\n\r\n
+
+
+"
+
+
+
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+4) Quantitative Aptitude Recommended books for CAT/XAT/MBA Exams\r\n\r\n
+
+
+•While preparing for Quantitative Aptitude for CAT/XAT/MBA one can refer following books:\r\n\r\n
+
+        1. Book Name:How to Prepare for Quantitative Aptitude for the CAT Common Admission Test, Author:Arun\r\n\r\n
+        2.Quantitative Aptitude For Competitive Examinations by Guha Abhijit\r\n\r\n
+        3.The Pearson Guide to Quantitative Aptitude for CAT by Nishit Sinha\r\n\r\n
+
+
+• Data Interpretation Logical Reasoning Recommended books for CAT/MBA\r\n\r\n
+        For Data Interpretation any of the following books can be followed:\r\n\r\n
+
+        1.TMH's How To Prepare For The Data Interpretation And Logical Reasoning For The CAT 3rd Edition by Arun\r\n\r\n
+        2.The Pearson Guide to Data Interpretation and Logical Reasoning for the CAT (With CD) by Nishit K. Sinha\r\n\r\n
+        3.How to Prepare for Logical Reasoning for the CAT Common Admission Test 1st Edition by Arun Sharma\r\n\r\n
+        4. How to Prepare for Data Interpretation for the CAT Common Admission Test 1st Edition by Arun Sharma\r\n\r\n
+
+
+•Verbal Ability and Logical Reasoning Recommended books for CAT/MBA Entrance\r\n\r\n
+
+        1. How to Prepare for Verbal Ability and Reading Comprehension for the CAT Common Admission by Arun Sharma\r\n\r\n
+        2. The Pearson Guide To Verbal Ability And Logical Reasoning For The CAT by Nishit K. Sinha\r\n\r\n
+        3. A Modern Approach To Verbal and Non-Verbal Reasoning Revised Edition by  R. S. Aggarwal\r\n\r\n
+        4. Trishna's Verbal Ability And Logical Reasoning For The CAT And Other MBA Examinations by TIME\r\n\r\n
+
+        You can also refer Byju's CAT material for all sections .\r\n\r\n
+
+  "
+
+
+
+            android:id="@+id/textView4"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+
+5) BANK EXAMS\r\n\r\n
+
+
+o	http://bankexamprep.in\r\n\r\n
+o	http://testbook.com\r\n\r\n
+o	http://www.gr8ambitionz.com\r\n\r\n
+o	http://www.bankersadda.com\r\n\r\n
+o	http://www.ibpsexam.co.in\r\n\r\n
+o	http://www.freeonlinetest.in\r\n\r\n
+o	http://www.bankexampreparation.com\r\n\r\n
+o	http://bank-po.org\r\n\r\n
+o	www.examsfunda.in\r\n\r\n
+o	testfunda.com\r\n\r\n
+o	Bank Exams India.com\r\n\r\n
+o	Bank Po.org\r\n\r\n
+o	Bestguru.com\r\n\r\n
+o	Ibps Preparation.com\r\n\r\n
+o	Exam2Win.com\r\n\r\n
+o	Examsfunda.in\r\n\r\n
+o	Bankexampreparation.com\r\n\r\n
+o	Testfunda.com\r\n\r\n
+o	Bankpreparation.in\r\n\r\n
+o	Bankingawareness.com\r\n\r\n
+
+
+  "
+
+
+
+            android:id="@+id/textView5"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+
+6) IAS\r\n\r\n
+
+1.	ClearIAS.com\r\n\r\n
+2.	cleariasexam.com\r\n\r\n
+3.	Mrunal.org\r\n\r\n
+4.	gktoday.in\r\n\r\n
+5.	insightsonindia.com\r\n\r\n
+6.	iasbaba.com\r\n\r\n
+7.	IASexamportal.com\r\n\r\n
+8.	iasscore.in\r\n\r\n
+9.	swapsushias.blogspot.in\r\n\r\n
+10.	iaspassion.com\r\n\r\n
+11.	iaskracker.com\r\n\r\n
+12.	jagranjosh.com\r\n\r\n
+13.	UPSCguide.com\r\n\r\n
+14.	CivilServiceIndia.com\r\n\r\n
+15.	ias100.in\r\n\r\n
+16.	halfmantr.com\r\n\r\n
+17.	civilsdaily.com\r\n\r\n
+18.	prepareias.in\r\n\r\n
+19.	iasaspirants.com\r\n\r\n
+20.	iaspaper.in\r\n\r\n
+21.	iksa.in\r\n\r\n
+22.	visionias.in\r\n\r\n
+23.	tcyonline.com\r\n\r\n
+24.	testfunda.com\r\n\r\n
+25.	byjusclasses.com\r\n\r\n
+
+
+
+  "
+
+
+
+            android:id="@+id/textView6"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+
+7) Useful Government Websites For Civil Service Preparation\r\n\r\n
+
+
+1.	ncert.nic.in – Download NCERT Texts as PDF.\r\n\r\n
+2.	nios.ac.in – Download NIOS Online Materials.\r\n\r\n
+3.	egyankosh.ac.in – Download IGNOU Books.\r\n\r\n
+4.	yojana.gov.in – Download Yojana and Kurukshetra Magazines.\r\n\r\n
+5.	upsc.gov.in – Official Website of UPSC.\r\n\r\n
+6.	pib.nic.in – Press Information Bureau Website, for government updates.\r\n\r\n
+7.	prsindia.org – PRS Website for tracking bills in Parliament.\r\n\r\n
+8.	idsa.in – IDSA website for Defense and Foreign relations.\r\n\r\n
+9.	gatewayhouse.in – Indian Council for Global relations.\r\n\r\n
+10.	envfor.nic.in – Ministry of Environment and Forests.\r\n\r\n
+11.	mea.gov.in – Ministry of External Affairs.\r\n\r\n
+12.	indiabudget.nic.in – Download Budget and Economic Survey.\r\n\r\n
+13.	ptinews.com – Press Trust of India.\r\n\r\n
+14.	pdgroup.upkar.in – Pratiyogita Darpan Magazine.\r\n\r\n
+15.	ibef.org – India Brand Equity Foundation for economy and business.\r\n\r\n
+16.	vikaspedia.in – Knowledge initiative by InDG.\r\n\r\n
+17.	makeinindia.com – Make in India initiative for manufacturing related info.\r\n\r\n
+
+
+
+  "
+
+
+
+            android:id="@+id/textView7"
+            android:layout_below="@+id/textView1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

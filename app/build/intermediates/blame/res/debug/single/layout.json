@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\masters.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\masters.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view__question.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_view__question.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reference.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_reference.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_que__generate.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_que__generate.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disclaimer.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\management.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_que__generate.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_que__generate.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reference.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_reference.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_analysis.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_taketest.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_taketest.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_analysis.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masters.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_masters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_taketest.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_taketest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_taketest.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_taketest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disclaimer.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\masters.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\masters.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\management.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\management.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_resource.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_masters.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_masters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_resource.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reference.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_reference.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\govt.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\govt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\management.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\management.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\masters.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\masters.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash1.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_splash1.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view__question.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_view__question.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disclaimer.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\govt.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\govt.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view__question.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_view__question.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_analysis.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_que__generate.xml",
+        "source": "D:\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\activity_que__generate.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\Aravind Sankar\\AndroidStudioProjects\\ILLUMINATE4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\govt.xml",
+        "source": "F:\\project\\ILLUMINATE4\\ILLUMINATE4\\app\\src\\main\\res\\layout\\govt.xml"
+    }
+]
